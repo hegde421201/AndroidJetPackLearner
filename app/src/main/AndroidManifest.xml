@@ -10,42 +10,43 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
-            android:name=".navigation2.Nav2Activity"
+            android:name=".recyclerview.RecyclerActivity"
             android:exported="true"
-            android:label="@string/title_activity_nav2"
-            android:theme="@style/Theme.LearningApp.NoActionBar">
+            android:screenOrientation="fullSensor"
+            android:windowSoftInputMode="stateAlwaysHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".navigation2.Nav2Activity"
+            android:exported="true"
+            android:label="@string/title_activity_nav2">
         </activity>
         <activity
             android:name=".navigation.NavigationActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
             android:windowSoftInputMode="stateAlwaysHidden">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".livedata.LiveDataActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden"/>
+
         <activity
             android:name=".viewmodel.VMActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden"/>
         <activity
             android:name=".databinding.DataBindingActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden"/>
     </application>
 
 </manifest>

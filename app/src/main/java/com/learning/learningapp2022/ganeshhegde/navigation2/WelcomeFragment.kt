@@ -5,12 +5,11 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.databinding.DataBindingUtil
+import androidx.navigation.findNavController
 import com.learning.learningapp2022.ganeshhegde.R
+import com.learning.learningapp2022.ganeshhegde.databinding.FragmentWelcomeBinding
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
 
 /**
  * A simple [Fragment] subclass.
@@ -19,13 +18,27 @@ private const val ARG_PARAM2 = "param2"
  */
 class WelcomeFragment : Fragment() {
 
+    private lateinit var welcomeBinding: FragmentWelcomeBinding
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_welcome, container, false)
+
+        welcomeBinding = DataBindingUtil.inflate(inflater,R.layout.fragment_welcome,container,false)
+
+        val email= arguments?.getString("email_text")
+        val name = arguments?.getString("name_text")
+
+        welcomeBinding.textViewEmail.text = email
+        welcomeBinding.textViewName.text = name
+
+        welcomeBinding.buttonTerms2.setOnClickListener {
+            it.findNavController().navigate(R.id.action_welcomeFragment_to_termsFragment)
+        }
+
+        return welcomeBinding.root
     }
 
    

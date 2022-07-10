@@ -14,8 +14,10 @@
         <entry key="app/src/main/res/layout/fragment_terms.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/layout.xml" value="0.3385416666666667" />
+        <entry key="app/src/main/res/layout/list_items_demo.xml" value="0.17147922998986828" />
         <entry key="app/src/main/res/layout/livedataexample.xml" value="0.17147922998986828" />
         <entry key="app/src/main/res/layout/navexample.xml" value="0.15489130434782608" />
+        <entry key="app/src/main/res/layout/recycler_demo.xml" value="0.17147922998986828" />
         <entry key="app/src/main/res/layout/vmactivity.xml" value="0.35260416666666666" />
       </map>
     </option>
