@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_nav2.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/content_nav2.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/databinding.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/fragment_email.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_home2.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_name.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_terms.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/layout.xml" value="0.3385416666666667" />
+        <entry key="app/src/main/res/layout/livedataexample.xml" value="0.17147922998986828" />
+        <entry key="app/src/main/res/layout/navexample.xml" value="0.15489130434782608" />
+        <entry key="app/src/main/res/layout/vmactivity.xml" value="0.35260416666666666" />
       </map>
     </option>
   </component>
