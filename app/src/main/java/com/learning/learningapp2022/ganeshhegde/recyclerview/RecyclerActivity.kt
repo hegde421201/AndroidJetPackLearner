@@ -40,7 +40,7 @@ class RecyclerActivity : AppCompatActivity() {
 
     private fun listItemClicked(planets: Planets){
 
-            Toast.makeText(this,"Planet ${planets.name} has radius ${planets.radius_km} kilometres",
+            Toast.makeText(this@RecyclerActivity,"Planet ${planets.name} has radius ${planets.radius_km} kilometres",
                 Toast.LENGTH_SHORT).show()
 
     }

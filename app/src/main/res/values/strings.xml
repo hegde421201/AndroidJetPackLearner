@@ -33,6 +33,7 @@
     <string name="display_name">Display name</string>
     <string name="display_email">Display email</string>
     <string name="textview">TextView</string>
+    <string name="dowmload">Dowmload</string>
 
     <string-array name="planets_array">
         <item>Earth</item>

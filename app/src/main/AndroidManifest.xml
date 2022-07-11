@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
-            android:name=".recyclerview.RecyclerActivity"
+            android:name=".coroutines.CoroutinesActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
             android:windowSoftInputMode="stateAlwaysHidden">
@@ -20,6 +20,12 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".recyclerview.RecyclerActivity"
+            android:exported="true"
+            android:screenOrientation="fullSensor"
+            android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
         <activity
             android:name=".navigation2.Nav2Activity"
             android:exported="true"

@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_nav2.xml" value="0.18385416666666668" />
         <entry key="app/src/main/res/layout/content_nav2.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/coroutines.xml" value="0.17147922998986828" />
         <entry key="app/src/main/res/layout/databinding.xml" value="0.2006340579710145" />
         <entry key="app/src/main/res/layout/fragment_email.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35260416666666666" />
