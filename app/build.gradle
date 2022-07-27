@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
 }
 
 android {
@@ -28,13 +29,13 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_16
-        targetCompatibility JavaVersion.VERSION_16
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
 
     }
     buildToolsVersion '32.1.0 rc1'
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = JavaVersion.VERSION_17.toString()
     }
 
 }
@@ -43,6 +44,7 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     def nav_version = "2.5.0"
+    def roomVersion = "2.4.2"
     implementation 'androidx.core:core-ktx:1.8.0'
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
@@ -64,6 +66,12 @@ dependencies {
 
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.5.0"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0"
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1")
+    // Room components
+    implementation "androidx.room:room-ktx:2.4.2"
+    kapt "androidx.room:room-compiler:$roomVersion"
+    androidTestImplementation "androidx.room:room-testing:$roomVersion"
 
 }
 
