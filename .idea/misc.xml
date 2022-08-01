@@ -19,6 +19,8 @@
         <entry key="app/src/main/res/layout/livedataexample.xml" value="0.17147922998986828" />
         <entry key="app/src/main/res/layout/navexample.xml" value="0.15489130434782608" />
         <entry key="app/src/main/res/layout/recycler_demo.xml" value="0.17147922998986828" />
+        <entry key="app/src/main/res/layout/room_list_item.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/room_subscribers.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/vmactivity.xml" value="0.35260416666666666" />
       </map>
     </option>
