@@ -27,6 +27,7 @@ class RoomDemoActivity : AppCompatActivity() {
         subscribeViewModel = ViewModelProvider(this,factory).get(SubscribeViewModel::class.java)
         rBinding.subViewModel = subscribeViewModel
 
+
         rBinding.lifecycleOwner = this
 
         initRecyclerView()
@@ -44,6 +45,7 @@ class RoomDemoActivity : AppCompatActivity() {
     
     private fun listItemClicked(subscriber:Subscriber){
         Toast.makeText(this,"clicked ${subscriber.name}",Toast.LENGTH_SHORT).show()
+        subscribeViewModel.initUpdateOrDelete(subscriber)
     }
 
     private fun initRecyclerView(){
