@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second2.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_terms.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_terms.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vmactivity.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/vmactivity.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_nav2.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/activity_nav2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_items_demo.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/list_items_demo.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/livedataexample.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/livedataexample.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/room_list_item.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/room_list_item.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/navexample.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/navexample.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_demo.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/recycler_demo.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_email.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_email.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/coroutines.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/coroutines.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/databinding.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/databinding.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_welcome.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home2.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/room_subscribers.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/room_subscribers.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_name.xml",
+        "source": "/Users/ganesh.r.hegde/AndroidStudioProjects/LearningApp/app/src/main/res/layout/fragment_name.xml"
+    }
+]
