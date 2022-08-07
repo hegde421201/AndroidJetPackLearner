@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/livedataexample.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/livedataexample.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/list_items_demo.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/list_items_demo.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/databinding.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/databinding.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/recycler_demo.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/recycler_demo.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_second.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_email.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_email.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_terms.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_terms.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_first.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/room_subscribers.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/room_subscribers.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_home.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_home2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/navexample.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/navexample.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/room_list_item.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/room_list_item.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_second2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/activity_nav2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/activity_nav2.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/coroutines.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/coroutines.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/vmactivity.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/vmactivity.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_welcome.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/layout/fragment_name.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-74:/layout/fragment_name.xml"
+    }
+]
