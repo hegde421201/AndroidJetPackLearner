@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-70:/values-v16/values-v16.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\bf932d95c39062e122217428f08f9f06\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\78695b5aea0e34cd95ef52c44beaf0f4\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\5fd4275fbea83760409245dff04abb22\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\547512a7b746352299aaa882ca559e69\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

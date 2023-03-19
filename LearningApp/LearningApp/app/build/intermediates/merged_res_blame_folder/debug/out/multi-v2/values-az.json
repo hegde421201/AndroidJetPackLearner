@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-70:/values-az/values-az.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/values-az/values-az.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\ff7648e12c3d63e6b7df7d910c8eba67\\transformed\\navigation-ui-2.5.1\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,162",
-                        "endColumns": "106,118",
-                        "endOffsets": "157,276"
-                    },
-                    "to": {
-                        "startLines": "94,95",
-                        "startColumns": "4,4",
-                        "startOffsets": "7942,8049",
-                        "endColumns": "106,118",
-                        "endOffsets": "8044,8163"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\0237b94bc12c3cf8e8d7c1403700ad52\\transformed\\material-1.6.1\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\cc90f79e190d20ac9411321f7f00417b\\transformed\\material-1.6.1\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\78695b5aea0e34cd95ef52c44beaf0f4\\transformed\\appcompat-1.4.2\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\5fd4275fbea83760409245dff04abb22\\transformed\\appcompat-1.4.2\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\bf932d95c39062e122217428f08f9f06\\transformed\\core-1.8.0\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\547512a7b746352299aaa882ca559e69\\transformed\\core-1.8.0\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -74,24 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\cd02e00bbf3f8ff91a219c5bc21ebc50\\transformed\\ui-1.0.1\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,205,293,390,471,585,677,759,828,895,967,1033",
-                        "endColumns": "99,87,96,80,113,91,81,68,66,71,65,116",
-                        "endOffsets": "200,288,385,466,580,672,754,823,890,962,1028,1145"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,43,44,96,97,98,100,105,107,108",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3350,3450,3538,3861,3942,8168,8260,8342,8477,8863,9036,9102",
-                        "endColumns": "99,87,96,80,113,91,81,68,66,71,65,116",
-                        "endOffsets": "3445,3533,3630,3937,4051,8255,8337,8406,8539,8930,9097,9214"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\33c8cb920fa1404b4c94b0308537ee5d\\transformed\\navigation-dynamic-features-fragment-2.5.1\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\33f1205a02a1ba4f4a02d88ea5f5168c\\transformed\\navigation-dynamic-features-fragment-2.5.1\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -105,6 +71,40 @@
                         "startOffsets": "4056,4160,4258,8411,8624,8700",
                         "endColumns": "103,97,95,65,75,78",
                         "endOffsets": "4155,4253,4349,8472,8695,8774"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\d619f91ad60e9cd03a7ca14d7b7c8bbb\\transformed\\navigation-ui-2.5.1\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,162",
+                        "endColumns": "106,118",
+                        "endOffsets": "157,276"
+                    },
+                    "to": {
+                        "startLines": "94,95",
+                        "startColumns": "4,4",
+                        "startOffsets": "7942,8049",
+                        "endColumns": "106,118",
+                        "endOffsets": "8044,8163"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\89fde1ec8c6d1b09bdff31be0f811c7d\\transformed\\ui-1.0.1\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,205,293,390,471,585,677,759,828,895,967,1033",
+                        "endColumns": "99,87,96,80,113,91,81,68,66,71,65,116",
+                        "endOffsets": "200,288,385,466,580,672,754,823,890,962,1028,1145"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,43,44,96,97,98,100,105,107,108",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3350,3450,3538,3861,3942,8168,8260,8342,8477,8863,9036,9102",
+                        "endColumns": "99,87,96,80,113,91,81,68,66,71,65,116",
+                        "endOffsets": "3445,3533,3630,3937,4051,8255,8337,8406,8539,8930,9097,9214"
                     }
                 }
             ]

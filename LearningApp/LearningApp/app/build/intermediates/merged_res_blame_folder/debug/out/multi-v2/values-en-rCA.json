@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-70:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-71:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\bf932d95c39062e122217428f08f9f06\\transformed\\core-1.8.0\\res\\values-en-rCA\\values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4178",
-                        "endColumns": "100",
-                        "endOffsets": "4274"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\78695b5aea0e34cd95ef52c44beaf0f4\\transformed\\appcompat-1.4.2\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\5fd4275fbea83760409245dff04abb22\\transformed\\appcompat-1.4.2\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\cd02e00bbf3f8ff91a219c5bc21ebc50\\transformed\\ui-1.0.1\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\89fde1ec8c6d1b09bdff31be0f811c7d\\transformed\\ui-1.0.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\33c8cb920fa1404b4c94b0308537ee5d\\transformed\\navigation-dynamic-features-fragment-2.5.1\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\547512a7b746352299aaa882ca559e69\\transformed\\core-1.8.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4178",
+                        "endColumns": "100",
+                        "endOffsets": "4274"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\33f1205a02a1ba4f4a02d88ea5f5168c\\transformed\\navigation-dynamic-features-fragment-2.5.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
