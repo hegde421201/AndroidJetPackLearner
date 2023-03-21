@@ -6,9 +6,13 @@
 
     <uses-sdk
         android:minSdkVersion="23"
-        android:targetSdkVersion="32" />
+        android:targetSdkVersion="33" />
 
-    <!-- Permission will be merged into the manifest of the hosting app. -->
+    <permission
+        android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Permission will be merged into the manifest of the hosting app. -->
     <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
@@ -28,11 +32,6 @@
             android:exported="true"
             android:screenOrientation="fullSensor"
             android:windowSoftInputMode="stateAlwaysHidden" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.coroutines.lifecycledemo.LifeCycleScopeActivity"
@@ -72,19 +71,19 @@
             android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" />
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.databinding.DataBindingActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" />
-
-        <uses-library
-            android:name="androidx.window.extensions"
-            android:required="false" />
-        <uses-library
-            android:name="androidx.window.sidecar"
-            android:required="false" />
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -101,6 +100,13 @@
                 android:value="androidx.startup" />
         </provider>
 
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
         <service
             android:name="androidx.room.MultiInstanceInvalidationService"
             android:directBootAware="true"
@@ -114,6 +120,9 @@
             android:permission="android.permission.DUMP" >
             <intent-filter>
                 <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
             </intent-filter>
         </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
         <activity

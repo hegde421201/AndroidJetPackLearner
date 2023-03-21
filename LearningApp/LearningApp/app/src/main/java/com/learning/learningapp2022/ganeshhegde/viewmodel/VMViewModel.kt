@@ -2,6 +2,7 @@ package com.learning.learningapp2022.ganeshhegde.viewmodel
 
 import androidx.lifecycle.ViewModel
 
+//extend this class to viewmodel
 class VMViewModel(startValue : Long) : ViewModel() {
 
     private var count = 0
@@ -9,6 +10,11 @@ class VMViewModel(startValue : Long) : ViewModel() {
 
     init{
         adder = startValue
+    }
+
+    fun getInitialSum() : Long{
+
+        return adder
     }
 
     fun getCurrentClickCount() : Int{

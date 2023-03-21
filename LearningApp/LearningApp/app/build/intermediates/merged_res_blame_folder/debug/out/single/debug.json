@@ -1,162 +1,162 @@
 [
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_recycler_demo.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/recycler_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_list_items_demo.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/list_items_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_coroutines.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/coroutines.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_second2.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_second2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_navexample.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/navexample.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-pngs-69:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_home.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_home.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_livedataexample.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/livedataexample.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_databinding.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/databinding.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_right.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_right.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/drawable/ic_launcher_background.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_left.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_left.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/navigation_nav_graphhome.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/navigation/nav_graphhome.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_activity_nav2.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/activity_nav2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_room_subscribers.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/room_subscribers.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_terms.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_terms.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_terms.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_terms.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_databinding.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/databinding.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_vmactivity.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/vmactivity.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_room_list_item.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_list_item.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_navexample.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/navexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graphhome.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graphhome.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_room_list_item.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/room_list_item.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graph.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graph.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_welcome.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_welcome.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/anim_slide_out_right.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/anim/slide_out_right.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_name.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_name.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_name.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_name.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_second.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_list_items_demo.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/list_items_demo.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_second2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/anim_slide_in_left.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/anim/slide_in_left.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-pngs-68:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_recycler_demo.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/recycler_demo.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_home2.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_home2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_in_right.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_in_right.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_room_subscribers.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_subscribers.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/anim_slide_out_left.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/anim/slide_out_left.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_home2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/anim_slide_in_right.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/anim/slide_in_right.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_first.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_first.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_home.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/anim_slide.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/anim/slide.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_in_left.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_in_left.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_second.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_second.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_livedataexample.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/livedataexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_welcome.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_welcome.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_fragment_email.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/fragment_email.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_vmactivity.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/vmactivity.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_first.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_first.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/navigation_nav_graph.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/navigation/nav_graph.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_nav2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_nav2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-73:/layout_coroutines.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-75:/layout/coroutines.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_email.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_email.xml"
     }
 ]
