@@ -14,6 +14,4 @@ class VMViewModelFactory(private val total:Long) : ViewModelProvider.Factory {
         else
             throw IllegalArgumentException("Unknown VMViewModel class")
     }
-
-
 }

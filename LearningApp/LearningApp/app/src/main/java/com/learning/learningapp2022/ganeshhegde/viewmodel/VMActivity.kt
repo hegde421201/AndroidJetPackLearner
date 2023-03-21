@@ -11,7 +11,7 @@ class VMActivity : AppCompatActivity() {
 
     private lateinit var binding : VmactivityBinding //data binding object for this activity
     private lateinit var vmViewModel: VMViewModel //viewmodel class created as soon as this activity is created
-    private val initialValue = 125L //initial value of SUM (adder initial value)
+    private val initialValue = 200L //initial value of SUM (adder initial value)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -19,7 +19,7 @@ class VMActivity : AppCompatActivity() {
         //instantiate the data binder object
         binding = DataBindingUtil.setContentView(this, R.layout.vmactivity)
 
-        //this means lifecycle owner
+        //this means lifecycle owner using factory class
         vmViewModel = ViewModelProvider(this,VMViewModelFactory(initialValue))[VMViewModel::class.java]
 
         //initial value is set to 0 --- convert integer to string
@@ -50,6 +50,8 @@ class VMActivity : AppCompatActivity() {
         }*/
 
     }
+
+
 }
 
 /*
