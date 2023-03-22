@@ -35,7 +35,10 @@ class LiveDataActivity : AppCompatActivity() {
         })
 */
 
+        //Livedata --- A lifecycle aware observable data holder class.
+        //Activity,Fragment and service can act as observer to the livedata. Livedata updates observers in an activity lifecycle state.
 
-
+        //livedata - updates the UI automatically when app data changes.
+        //There is no need to write codes to handle lifecycle manually.
     }
 }
