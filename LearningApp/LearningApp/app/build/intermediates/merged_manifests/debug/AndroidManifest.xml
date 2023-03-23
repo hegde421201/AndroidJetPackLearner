@@ -66,17 +66,18 @@
             android:name="com.learning.learningapp2022.ganeshhegde.livedata.LiveDataActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" />
-        <activity
-            android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
-            android:exported="true"
-            android:screenOrientation="fullSensor"
             android:windowSoftInputMode="stateAlwaysHidden" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
+            android:exported="true"
+            android:screenOrientation="fullSensor"
+            android:windowSoftInputMode="stateAlwaysHidden" >
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.databinding.DataBindingActivity"

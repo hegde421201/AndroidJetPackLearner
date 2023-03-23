@@ -6,7 +6,7 @@ import java.lang.System;
 public final class VMActivity extends androidx.appcompat.app.AppCompatActivity {
     private com.learning.learningapp2022.ganeshhegde.databinding.VmactivityBinding binding;
     private com.learning.learningapp2022.ganeshhegde.viewmodel.VMViewModel vmViewModel;
-    private final long initialValue = 125L;
+    private final long initialValue = 200L;
     
     public VMActivity() {
         super();
