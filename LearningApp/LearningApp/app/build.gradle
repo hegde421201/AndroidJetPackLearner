@@ -64,11 +64,7 @@ dependencies {
 
     // Jetpack Compose Integration
     implementation("androidx.navigation:navigation-compose:$nav_version")
-
-<<<<<<< HEAD
-=======
     //livedata and viewmodel support
->>>>>>> daf6be9f50a69b27c25a29b9046b731c4e1c4bfb
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.6.0"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0"
 
