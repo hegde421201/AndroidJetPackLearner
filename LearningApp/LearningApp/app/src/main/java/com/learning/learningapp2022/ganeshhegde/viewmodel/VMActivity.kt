@@ -9,35 +9,49 @@ import com.learning.learningapp2022.ganeshhegde.databinding.VmactivityBinding
 
 class VMActivity : AppCompatActivity() {
 
-    private lateinit var binding : VmactivityBinding
-    private lateinit var vmViewModel: VMViewModel
-    private val initialValue = 125L
+    private lateinit var binding : VmactivityBinding //data binding object for this activity
+    private lateinit var vmViewModel: VMViewModel //viewmodel class created as soon as this activity is created
+    private val initialValue = 200L //initial value of SUM (adder initial value)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        //instantiate the data binder object
         binding = DataBindingUtil.setContentView(this, R.layout.vmactivity)
 
-        //this means lifecycle owner
+        //this means lifecycle owner using factory class
         vmViewModel = ViewModelProvider(this,VMViewModelFactory(initialValue))[VMViewModel::class.java]
 
-
+        //initial value is set to 0 --- convert integer to string
         binding.txtClicks.text = vmViewModel.getCurrentClickCount().toString()
 
-        binding.buttonCounter.setOnClickListener {
+        //initial value is set to 0 ---- convert integer to string
+        binding.textAdd.text = vmViewModel.getInitialSum().toString()
 
-            binding.txtClicks.text =  vmViewModel.getUpdatedCounter().toString()
+        binding.apply {
 
-           // binding.txtClicks.text = (++count).toString()
+            buttonCounter.setOnClickListener {
+
+                //get the updated count after click
+                binding.txtClicks.text =  vmViewModel.getUpdatedCounter().toString()
+
+            }
+
+            buttonAdd.setOnClickListener {
+                textAdd.text = vmViewModel.getUserNumber(editTextNumber.text.toString().toLong()).toString()
+            }
         }
 
-        binding.buttonAdd.setOnClickListener {
+       /* binding.buttonAdd.setOnClickListener {
 
+            //adder implementation using viewmodel
             binding.textAdd.text = vmViewModel.getUserNumber(binding.editTextNumber.text.toString().toLong()).toString()
 
-        }
+        }*/
 
     }
+
+
 }
 
 /*

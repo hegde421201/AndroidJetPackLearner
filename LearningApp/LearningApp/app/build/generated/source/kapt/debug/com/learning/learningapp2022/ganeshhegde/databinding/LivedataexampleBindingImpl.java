@@ -61,21 +61,62 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
             }
         }
     };
+    private androidx.databinding.InverseBindingListener editTextNameandroidTextAttrChanged = new androidx.databinding.InverseBindingListener() {
+        @Override
+        public void onChange() {
+            // Inverse of ldExampleViewModel.userName.getValue()
+            //         is ldExampleViewModel.userName.setValue((java.lang.String) callbackArg_0)
+            java.lang.String callbackArg_0 = androidx.databinding.adapters.TextViewBindingAdapter.getTextString(editTextName);
+            // localize variables for thread safety
+            // ldExampleViewModel != null
+            boolean ldExampleViewModelJavaLangObjectNull = false;
+            // ldExampleViewModel.userName.getValue()
+            java.lang.String ldExampleViewModelUserNameGetValue = null;
+            // ldExampleViewModel.userName
+            androidx.lifecycle.MutableLiveData<java.lang.String> ldExampleViewModelUserName = null;
+            // ldExampleViewModel
+            com.learning.learningapp2022.ganeshhegde.livedata.LDViewModel ldExampleViewModel = mLdExampleViewModel;
+            // ldExampleViewModel.userName != null
+            boolean ldExampleViewModelUserNameJavaLangObjectNull = false;
+
+
+
+            ldExampleViewModelJavaLangObjectNull = (ldExampleViewModel) != (null);
+            if (ldExampleViewModelJavaLangObjectNull) {
+
+
+                ldExampleViewModelUserName = ldExampleViewModel.getUserName();
+
+                ldExampleViewModelUserNameJavaLangObjectNull = (ldExampleViewModelUserName) != (null);
+                if (ldExampleViewModelUserNameJavaLangObjectNull) {
+
+
+
+
+                    ldExampleViewModelUserName.setValue(((java.lang.String) (callbackArg_0)));
+                }
+            }
+        }
+    };
 
     public LivedataexampleBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 4, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 6, sIncludes, sViewsWithIds));
     }
     private LivedataexampleBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
-        super(bindingComponent, root, 2
+        super(bindingComponent, root, 3
             , (android.widget.Button) bindings[2]
             , (android.widget.EditText) bindings[3]
+            , (android.widget.EditText) bindings[5]
             , (android.widget.TextView) bindings[1]
+            , (android.widget.TextView) bindings[4]
             );
         this.buttonDouble.setTag(null);
         this.editTextDouble.setTag(null);
+        this.editTextName.setTag(null);
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
         this.mboundView0.setTag(null);
         this.textView.setTag(null);
+        this.twoWayText.setTag(null);
         setRootTag(root);
         // listeners
         mCallback3 = new com.learning.learningapp2022.ganeshhegde.generated.callback.OnClickListener(this, 1);
@@ -85,7 +126,7 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
     @Override
     public void invalidateAll() {
         synchronized(this) {
-                mDirtyFlags = 0x8L;
+                mDirtyFlags = 0x10L;
         }
         requestRebind();
     }
@@ -115,7 +156,7 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
     public void setLdExampleViewModel(@Nullable com.learning.learningapp2022.ganeshhegde.livedata.LDViewModel LdExampleViewModel) {
         this.mLdExampleViewModel = LdExampleViewModel;
         synchronized(this) {
-            mDirtyFlags |= 0x4L;
+            mDirtyFlags |= 0x8L;
         }
         notifyPropertyChanged(BR.ldExampleViewModel);
         super.requestRebind();
@@ -125,13 +166,15 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
     protected boolean onFieldChange(int localFieldId, Object object, int fieldId) {
         switch (localFieldId) {
             case 0 :
-                return onChangeLdExampleViewModelUserInput((androidx.lifecycle.MutableLiveData<java.lang.String>) object, fieldId);
+                return onChangeLdExampleViewModelUserName((androidx.lifecycle.MutableLiveData<java.lang.String>) object, fieldId);
             case 1 :
+                return onChangeLdExampleViewModelUserInput((androidx.lifecycle.MutableLiveData<java.lang.String>) object, fieldId);
+            case 2 :
                 return onChangeLdExampleViewModelMultData((androidx.lifecycle.LiveData<java.lang.Double>) object, fieldId);
         }
         return false;
     }
-    private boolean onChangeLdExampleViewModelUserInput(androidx.lifecycle.MutableLiveData<java.lang.String> LdExampleViewModelUserInput, int fieldId) {
+    private boolean onChangeLdExampleViewModelUserName(androidx.lifecycle.MutableLiveData<java.lang.String> LdExampleViewModelUserName, int fieldId) {
         if (fieldId == BR._all) {
             synchronized(this) {
                     mDirtyFlags |= 0x1L;
@@ -140,10 +183,19 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
         }
         return false;
     }
-    private boolean onChangeLdExampleViewModelMultData(androidx.lifecycle.LiveData<java.lang.Double> LdExampleViewModelMultData, int fieldId) {
+    private boolean onChangeLdExampleViewModelUserInput(androidx.lifecycle.MutableLiveData<java.lang.String> LdExampleViewModelUserInput, int fieldId) {
         if (fieldId == BR._all) {
             synchronized(this) {
                     mDirtyFlags |= 0x2L;
+            }
+            return true;
+        }
+        return false;
+    }
+    private boolean onChangeLdExampleViewModelMultData(androidx.lifecycle.LiveData<java.lang.Double> LdExampleViewModelMultData, int fieldId) {
+        if (fieldId == BR._all) {
+            synchronized(this) {
+                    mDirtyFlags |= 0x4L;
             }
             return true;
         }
@@ -158,23 +210,39 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
             mDirtyFlags = 0;
         }
         java.lang.String ldExampleViewModelUserInputGetValue = null;
+        java.lang.String ldExampleViewModelUserNameGetValue = null;
         com.learning.learningapp2022.ganeshhegde.livedata.LDViewModel ldExampleViewModel = mLdExampleViewModel;
         java.lang.Double ldExampleViewModelMultDataGetValue = null;
         double androidxDatabindingViewDataBindingSafeUnboxLdExampleViewModelMultDataGetValue = 0.0;
         java.lang.String stringValueOfLdExampleViewModelMultData = null;
+        androidx.lifecycle.MutableLiveData<java.lang.String> ldExampleViewModelUserName = null;
         androidx.lifecycle.MutableLiveData<java.lang.String> ldExampleViewModelUserInput = null;
         androidx.lifecycle.LiveData<java.lang.Double> ldExampleViewModelMultData = null;
 
-        if ((dirtyFlags & 0xfL) != 0) {
+        if ((dirtyFlags & 0x1fL) != 0) {
 
 
-            if ((dirtyFlags & 0xdL) != 0) {
+            if ((dirtyFlags & 0x19L) != 0) {
+
+                    if (ldExampleViewModel != null) {
+                        // read ldExampleViewModel.userName
+                        ldExampleViewModelUserName = ldExampleViewModel.getUserName();
+                    }
+                    updateLiveDataRegistration(0, ldExampleViewModelUserName);
+
+
+                    if (ldExampleViewModelUserName != null) {
+                        // read ldExampleViewModel.userName.getValue()
+                        ldExampleViewModelUserNameGetValue = ldExampleViewModelUserName.getValue();
+                    }
+            }
+            if ((dirtyFlags & 0x1aL) != 0) {
 
                     if (ldExampleViewModel != null) {
                         // read ldExampleViewModel.userInput
                         ldExampleViewModelUserInput = ldExampleViewModel.getUserInput();
                     }
-                    updateLiveDataRegistration(0, ldExampleViewModelUserInput);
+                    updateLiveDataRegistration(1, ldExampleViewModelUserInput);
 
 
                     if (ldExampleViewModelUserInput != null) {
@@ -182,13 +250,13 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
                         ldExampleViewModelUserInputGetValue = ldExampleViewModelUserInput.getValue();
                     }
             }
-            if ((dirtyFlags & 0xeL) != 0) {
+            if ((dirtyFlags & 0x1cL) != 0) {
 
                     if (ldExampleViewModel != null) {
                         // read ldExampleViewModel.multData
                         ldExampleViewModelMultData = ldExampleViewModel.getMultData();
                     }
-                    updateLiveDataRegistration(1, ldExampleViewModelMultData);
+                    updateLiveDataRegistration(2, ldExampleViewModelMultData);
 
 
                     if (ldExampleViewModelMultData != null) {
@@ -206,18 +274,25 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
             }
         }
         // batch finished
-        if ((dirtyFlags & 0x8L) != 0) {
+        if ((dirtyFlags & 0x10L) != 0) {
             // api target 1
 
             this.buttonDouble.setOnClickListener(mCallback3);
             androidx.databinding.adapters.TextViewBindingAdapter.setTextWatcher(this.editTextDouble, (androidx.databinding.adapters.TextViewBindingAdapter.BeforeTextChanged)null, (androidx.databinding.adapters.TextViewBindingAdapter.OnTextChanged)null, (androidx.databinding.adapters.TextViewBindingAdapter.AfterTextChanged)null, editTextDoubleandroidTextAttrChanged);
+            androidx.databinding.adapters.TextViewBindingAdapter.setTextWatcher(this.editTextName, (androidx.databinding.adapters.TextViewBindingAdapter.BeforeTextChanged)null, (androidx.databinding.adapters.TextViewBindingAdapter.OnTextChanged)null, (androidx.databinding.adapters.TextViewBindingAdapter.AfterTextChanged)null, editTextNameandroidTextAttrChanged);
         }
-        if ((dirtyFlags & 0xdL) != 0) {
+        if ((dirtyFlags & 0x1aL) != 0) {
             // api target 1
 
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.editTextDouble, ldExampleViewModelUserInputGetValue);
         }
-        if ((dirtyFlags & 0xeL) != 0) {
+        if ((dirtyFlags & 0x19L) != 0) {
+            // api target 1
+
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.editTextName, ldExampleViewModelUserNameGetValue);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.twoWayText, ldExampleViewModelUserNameGetValue);
+        }
+        if ((dirtyFlags & 0x1cL) != 0) {
             // api target 1
 
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.textView, stringValueOfLdExampleViewModelMultData);
@@ -261,10 +336,11 @@ public class LivedataexampleBindingImpl extends LivedataexampleBinding implement
     // dirty flag
     private  long mDirtyFlags = 0xffffffffffffffffL;
     /* flag mapping
-        flag 0 (0x1L): ldExampleViewModel.userInput
-        flag 1 (0x2L): ldExampleViewModel.multData
-        flag 2 (0x3L): ldExampleViewModel
-        flag 3 (0x4L): null
+        flag 0 (0x1L): ldExampleViewModel.userName
+        flag 1 (0x2L): ldExampleViewModel.userInput
+        flag 2 (0x3L): ldExampleViewModel.multData
+        flag 3 (0x4L): ldExampleViewModel
+        flag 4 (0x5L): null
     flag mapping end*/
     //end
 }

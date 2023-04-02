@@ -6,256 +6,274 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="32" />
-9-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml
+8-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml
 10
-11    <!-- Permission will be merged into the manifest of the hosting app. -->
-12    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
-13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-13-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:13:5-77
-13-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:13:22-74
+11    <permission
+11-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 14
-15    <application
-15-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:4:5-67:19
-16        android:allowBackup="true"
-16-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:5:9-35
-17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.8.0] C:\Users\hegde10122\.gradle\caches\transforms-3\547512a7b746352299aaa882ca559e69\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-18        android:debuggable="true"
-19        android:extractNativeLibs="false"
-20        android:icon="@mipmap/ic_launcher"
-20-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:6:9-43
-21        android:label="@string/app_name"
-21-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:7:9-41
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:8:9-54
-23        android:supportsRtl="true"
-23-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:9:9-35
-24        android:testOnly="true"
-25        android:theme="@style/Theme.LearningApp" >
-25-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:10:9-49
-26        <activity
-26-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:11:9-20:20
-27            android:name="com.learning.learningapp2022.ganeshhegde.roomdb.RoomDemoActivity"
-27-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:12:13-52
-28            android:exported="true"
-28-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:13:13-36
-29            android:screenOrientation="fullSensor"
-29-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:14:13-51
-30            android:windowSoftInputMode="stateAlwaysHidden" >
-30-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:15:13-60
-31            <intent-filter>
-31-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:16:13-19:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:17:17-69
-32-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:17:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:18:17-77
-34-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:18:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity
-37-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:21:9-26:20
-38            android:name="com.learning.learningapp2022.ganeshhegde.coroutines.lifecycledemo.LifeCycleScopeActivity"
-38-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:22:13-76
-39            android:exported="true"
-39-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:23:13-36
-40            android:screenOrientation="fullSensor"
-40-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:24:13-51
-41            android:windowSoftInputMode="stateAlwaysHidden" >
-41-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:25:13-60
-42        </activity>
-43        <activity
-43-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:27:9-33:20
-44            android:name="com.learning.learningapp2022.ganeshhegde.coroutines.CoroutinesActivity"
-44-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:28:13-58
-45            android:exported="true"
-45-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:29:13-36
-46            android:screenOrientation="fullSensor"
-46-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:30:13-51
-47            android:windowSoftInputMode="stateAlwaysHidden" >
-47-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:31:13-60
-48        </activity>
-49        <activity
-49-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:34:9-39:20
-50            android:name="com.learning.learningapp2022.ganeshhegde.recyclerview.RecyclerActivity"
-50-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:35:13-58
-51            android:exported="true"
-51-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:36:13-36
-52            android:screenOrientation="fullSensor"
-52-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:37:13-51
-53            android:windowSoftInputMode="stateAlwaysHidden" >
-53-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:38:13-60
-54        </activity>
-55        <activity
-55-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:40:9-44:20
-56            android:name="com.learning.learningapp2022.ganeshhegde.navigation2.Nav2Activity"
-56-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:41:13-53
-57            android:exported="true"
-57-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:42:13-36
-58            android:label="@string/title_activity_nav2" >
-58-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:43:13-56
-59        </activity>
-60        <activity
-60-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:45:9-50:20
-61            android:name="com.learning.learningapp2022.ganeshhegde.navigation.NavigationActivity"
-61-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:46:13-58
-62            android:exported="true"
-62-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:47:13-36
-63            android:screenOrientation="fullSensor"
-63-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:48:13-51
-64            android:windowSoftInputMode="stateAlwaysHidden" >
-64-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:49:13-60
-65        </activity>
-66        <activity
-66-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:51:9-55:62
-67            android:name="com.learning.learningapp2022.ganeshhegde.livedata.LiveDataActivity"
-67-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:52:13-54
-68            android:exported="true"
-68-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:53:13-36
-69            android:screenOrientation="fullSensor"
-69-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:54:13-51
-70            android:windowSoftInputMode="stateAlwaysHidden" />
-70-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:55:13-60
-71        <activity
-71-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:57:9-61:62
-72            android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
-72-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:58:13-49
-73            android:exported="true"
-73-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:59:13-36
-74            android:screenOrientation="fullSensor"
-74-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:60:13-51
-75            android:windowSoftInputMode="stateAlwaysHidden" />
-75-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:61:13-60
+15    <uses-permission android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+15-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:13:5-77
+17-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:13:22-74
+18
+19    <application
+19-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:4:5-74:19
+20        android:allowBackup="true"
+20-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:5:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:6:9-43
+25        android:label="@string/app_name"
+25-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:7:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:8:9-54
+27        android:supportsRtl="true"
+27-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:9:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.LearningApp" >
+29-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:10:9-49
+30        <activity
+30-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:11:9-17:20
+31            android:name="com.learning.learningapp2022.ganeshhegde.roomdb.RoomDemoActivity"
+31-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:12:13-52
+32            android:exported="true"
+32-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:13:13-36
+33            android:screenOrientation="fullSensor"
+33-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:14:13-51
+34            android:windowSoftInputMode="stateAlwaysHidden" >
+34-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:15:13-60
+35        </activity>
+36        <activity
+36-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:18:9-23:20
+37            android:name="com.learning.learningapp2022.ganeshhegde.coroutines.lifecycledemo.LifeCycleScopeActivity"
+37-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:19:13-76
+38            android:exported="true"
+38-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:20:13-36
+39            android:screenOrientation="fullSensor"
+39-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:21:13-51
+40            android:windowSoftInputMode="stateAlwaysHidden" >
+40-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:22:13-60
+41        </activity>
+42        <activity
+42-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:24:9-30:20
+43            android:name="com.learning.learningapp2022.ganeshhegde.coroutines.CoroutinesActivity"
+43-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:25:13-58
+44            android:exported="true"
+44-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:26:13-36
+45            android:screenOrientation="fullSensor"
+45-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:27:13-51
+46            android:windowSoftInputMode="stateAlwaysHidden" >
+46-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:28:13-60
+47        </activity>
+48        <activity
+48-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:31:9-36:20
+49            android:name="com.learning.learningapp2022.ganeshhegde.recyclerview.RecyclerActivity"
+49-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:32:13-58
+50            android:exported="true"
+50-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:33:13-36
+51            android:screenOrientation="fullSensor"
+51-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:34:13-51
+52            android:windowSoftInputMode="stateAlwaysHidden" >
+52-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:35:13-60
+53        </activity>
+54        <activity
+54-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:37:9-41:20
+55            android:name="com.learning.learningapp2022.ganeshhegde.navigation2.Nav2Activity"
+55-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:38:13-53
+56            android:exported="true"
+56-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:39:13-36
+57            android:label="@string/title_activity_nav2" >
+57-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:40:13-56
+58        </activity>
+59        <activity
+59-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:42:9-47:20
+60            android:name="com.learning.learningapp2022.ganeshhegde.navigation.NavigationActivity"
+60-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:43:13-58
+61            android:exported="true"
+61-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:44:13-36
+62            android:screenOrientation="fullSensor"
+62-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:45:13-51
+63            android:windowSoftInputMode="stateAlwaysHidden" >
+63-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:46:13-60
+64        </activity>
+65        <activity
+65-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:48:9-57:20
+66            android:name="com.learning.learningapp2022.ganeshhegde.livedata.LiveDataActivity"
+66-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:49:13-54
+67            android:exported="true"
+67-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:50:13-36
+68            android:screenOrientation="fullSensor"
+68-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:51:13-51
+69            android:windowSoftInputMode="stateAlwaysHidden" >
+69-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:52:13-60
+70            <intent-filter>
+70-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:53:13-56:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:54:17-69
+71-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:54:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:55:17-77
+73-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:55:27-74
+74            </intent-filter>
+75        </activity>
 76        <activity
-76-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:62:9-66:62
-77            android:name="com.learning.learningapp2022.ganeshhegde.databinding.DataBindingActivity"
-77-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:63:13-60
+76-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:59:9-65:20
+77            android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
+77-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:60:13-49
 78            android:exported="true"
-78-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:64:13-36
+78-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:61:13-36
 79            android:screenOrientation="fullSensor"
-79-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:65:13-51
-80            android:windowSoftInputMode="stateAlwaysHidden" />
-80-->D:\AndroidApps\AndroidJetPackLearner\LearningApp\LearningApp\app\src\main\AndroidManifest.xml:66:13-60
-81
-82        <uses-library
-82-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-83            android:name="androidx.window.extensions"
-83-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-84            android:required="false" />
-84-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-85        <uses-library
-85-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-86            android:name="androidx.window.sidecar"
-86-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-87            android:required="false" />
-87-->[androidx.window:window:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\e06aed125ed1e48a78750e53dcce66f4\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+79-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:62:13-51
+80            android:windowSoftInputMode="stateAlwaysHidden" >
+80-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:63:13-60
+81        </activity>
+82        <activity
+82-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:66:9-72:20
+83            android:name="com.learning.learningapp2022.ganeshhegde.databinding.DataBindingActivity"
+83-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:67:13-60
+84            android:exported="true"
+84-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:68:13-36
+85            android:screenOrientation="fullSensor"
+85-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:69:13-51
+86            android:windowSoftInputMode="stateAlwaysHidden" >
+86-->/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/AndroidManifest.xml:70:13-60
+87        </activity>
 88
 89        <provider
-89-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+89-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 90            android:name="androidx.startup.InitializationProvider"
-90-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+90-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 91            android:authorities="com.learning.learningapp2022.ganeshhegde.androidx-startup"
-91-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+91-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 92            android:exported="false" >
-92-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+92-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 93            <meta-data
-93-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+93-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-94-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+94-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 95                android:value="androidx.startup" />
-95-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hegde10122\.gradle\caches\transforms-3\926fa802d192116dc1a1d25659ae7656\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+95-->[androidx.emoji2:emoji2:1.2.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/dbef6635aac8426fa136b8fc525e1352/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 96            <meta-data
-96-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hegde10122\.gradle\caches\transforms-3\f7913199b6cc98d267e4e4fe99445681\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+96-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/faa757ed1791b810d99a80aeaaad7908/transformed/lifecycle-process-2.6.0/AndroidManifest.xml:29:13-31:52
 97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-97-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hegde10122\.gradle\caches\transforms-3\f7913199b6cc98d267e4e4fe99445681\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+97-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/faa757ed1791b810d99a80aeaaad7908/transformed/lifecycle-process-2.6.0/AndroidManifest.xml:30:17-78
 98                android:value="androidx.startup" />
-98-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hegde10122\.gradle\caches\transforms-3\f7913199b6cc98d267e4e4fe99445681\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+98-->[androidx.lifecycle:lifecycle-process:2.6.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/faa757ed1791b810d99a80aeaaad7908/transformed/lifecycle-process-2.6.0/AndroidManifest.xml:31:17-49
 99            <meta-data
-99-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+99-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:30:13-32:52
 100                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-100-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+100-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:31:17-85
 101                android:value="androidx.startup" />
-101-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+101-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:32:17-49
 102        </provider>
 103
-104        <service
-104-->[androidx.room:room-runtime:2.4.3] C:\Users\hegde10122\.gradle\caches\transforms-3\46a2b0d3db0125bb9d11afdd3cac7b89\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
-105            android:name="androidx.room.MultiInstanceInvalidationService"
-105-->[androidx.room:room-runtime:2.4.3] C:\Users\hegde10122\.gradle\caches\transforms-3\46a2b0d3db0125bb9d11afdd3cac7b89\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
-106            android:directBootAware="true"
-106-->[androidx.room:room-runtime:2.4.3] C:\Users\hegde10122\.gradle\caches\transforms-3\46a2b0d3db0125bb9d11afdd3cac7b89\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
-107            android:exported="false" />
-107-->[androidx.room:room-runtime:2.4.3] C:\Users\hegde10122\.gradle\caches\transforms-3\46a2b0d3db0125bb9d11afdd3cac7b89\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
-108
-109        <receiver
-109-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
-110            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-110-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
-111            android:directBootAware="false"
-111-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
-112            android:enabled="true"
-112-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
-113            android:exported="true"
-113-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
-114            android:permission="android.permission.DUMP" >
-114-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
-115            <intent-filter>
-115-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
-116                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-116-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
-116-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\hegde10122\.gradle\caches\transforms-3\62ecf4f58a29980c51a0036ecd5a05ee\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
-117            </intent-filter>
-118        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
-119        <activity
-119-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:18:9-24:45
-120            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-120-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:19:13-100
-121            android:enabled="false"
-121-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:20:13-36
-122            android:exported="false"
-122-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:21:13-37
-123            android:launchMode="singleInstance"
-123-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:22:13-48
-124            android:process=":playcore_missing_splits_activity"
-124-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:23:13-64
-125            android:stateNotNeeded="true" />
-125-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:24:13-42
-126        <activity
-126-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:25:9-29:65
-127            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-127-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:26:13-93
-128            android:exported="false"
-128-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:27:13-37
-129            android:stateNotNeeded="true"
-129-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:28:13-42
-130            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
-130-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:29:13-62
-131        <service
-131-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:32:9-39:19
-132            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-132-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:33:13-94
-133            android:enabled="false"
-133-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:34:13-36
-134            android:exported="true" >
-134-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:35:13-36
-135            <meta-data
-135-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:36:13-38:41
-136                android:name="com.google.android.play.core.assetpacks.versionCode"
-136-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:37:17-83
-137                android:value="11003" />
-137-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:38:17-38
-138        </service>
-139        <service
-139-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:40:9-43:40
-140            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
-140-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:41:13-95
-141            android:enabled="false"
-141-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:42:13-36
-142            android:exported="false" />
-142-->[com.google.android.play:core:1.10.3] C:\Users\hegde10122\.gradle\caches\transforms-3\dc2758f17ae746d9c536b3acf949a614\transformed\core-1.10.3\AndroidManifest.xml:43:13-37
-143    </application>
-144
-145</manifest>
+104        <uses-library
+104-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+105            android:name="androidx.window.extensions"
+105-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+106            android:required="false" />
+106-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+107        <uses-library
+107-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+108            android:name="androidx.window.sidecar"
+108-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+109            android:required="false" />
+109-->[androidx.window:window:1.0.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/bf8433fede2b66cfc455ab583f35ebb4/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+110
+111        <service
+111-->[androidx.room:room-runtime:2.5.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/5d37436de66789b4ece654c177ced398/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+112            android:name="androidx.room.MultiInstanceInvalidationService"
+112-->[androidx.room:room-runtime:2.5.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/5d37436de66789b4ece654c177ced398/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+113            android:directBootAware="true"
+113-->[androidx.room:room-runtime:2.5.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/5d37436de66789b4ece654c177ced398/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+114            android:exported="false" />
+114-->[androidx.room:room-runtime:2.5.0] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/5d37436de66789b4ece654c177ced398/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+115
+116        <receiver
+116-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:35:9-47:20
+117            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+117-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:36:13-76
+118            android:directBootAware="false"
+118-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:37:13-44
+119            android:enabled="true"
+119-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:38:13-35
+120            android:exported="true"
+120-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:39:13-36
+121            android:permission="android.permission.DUMP" >
+121-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:40:13-57
+122            <intent-filter>
+122-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:41:13-43:29
+123                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+123-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:42:17-91
+123-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:42:25-88
+124            </intent-filter>
+125            <intent-filter>
+125-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:44:13-46:29
+126                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+126-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:45:17-85
+126-->[androidx.profileinstaller:profileinstaller:1.2.1] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/a0a1538f44a75300095acf03b6145d04/transformed/profileinstaller-1.2.1/AndroidManifest.xml:45:25-82
+127            </intent-filter>
+128        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+129        <activity
+129-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:18:9-24:45
+130            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+130-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:19:13-100
+131            android:enabled="false"
+131-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:20:13-36
+132            android:exported="false"
+132-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:21:13-37
+133            android:launchMode="singleInstance"
+133-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:22:13-48
+134            android:process=":playcore_missing_splits_activity"
+134-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:23:13-64
+135            android:stateNotNeeded="true" />
+135-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:24:13-42
+136        <activity
+136-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:25:9-29:65
+137            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+137-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:26:13-93
+138            android:exported="false"
+138-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:27:13-37
+139            android:stateNotNeeded="true"
+139-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:28:13-42
+140            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+140-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:29:13-62
+141        <service
+141-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:32:9-39:19
+142            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+142-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:33:13-94
+143            android:enabled="false"
+143-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:34:13-36
+144            android:exported="true" >
+144-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:35:13-36
+145            <meta-data
+145-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:36:13-38:41
+146                android:name="com.google.android.play.core.assetpacks.versionCode"
+146-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:37:17-83
+147                android:value="11003" />
+147-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:38:17-38
+148        </service>
+149        <service
+149-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:40:9-43:40
+150            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+150-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:41:13-95
+151            android:enabled="false"
+151-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:42:13-36
+152            android:exported="false" />
+152-->[com.google.android.play:core:1.10.3] /Users/ganesh.r.hegde/.gradle/caches/transforms-3/eca9791cbf4673f7abf04ac7b22164f9/transformed/core-1.10.3/AndroidManifest.xml:43:13-37
+153    </application>
+154
+155</manifest>

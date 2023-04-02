@@ -76,6 +76,7 @@ id textWelcome
 id textview_first
 id textview_second
 id tvNames
+id twoWayText
 id txtClicks
 id txtCounts
 id txtMessage

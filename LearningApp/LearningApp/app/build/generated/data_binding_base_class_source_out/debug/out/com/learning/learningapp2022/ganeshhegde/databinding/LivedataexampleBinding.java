@@ -25,17 +25,26 @@ public abstract class LivedataexampleBinding extends ViewDataBinding {
   public final EditText editTextDouble;
 
   @NonNull
+  public final EditText editTextName;
+
+  @NonNull
   public final TextView textView;
+
+  @NonNull
+  public final TextView twoWayText;
 
   @Bindable
   protected LDViewModel mLdExampleViewModel;
 
   protected LivedataexampleBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      Button buttonDouble, EditText editTextDouble, TextView textView) {
+      Button buttonDouble, EditText editTextDouble, EditText editTextName, TextView textView,
+      TextView twoWayText) {
     super(_bindingComponent, _root, _localFieldCount);
     this.buttonDouble = buttonDouble;
     this.editTextDouble = editTextDouble;
+    this.editTextName = editTextName;
     this.textView = textView;
+    this.twoWayText = twoWayText;
   }
 
   public abstract void setLdExampleViewModel(@Nullable LDViewModel ldExampleViewModel);

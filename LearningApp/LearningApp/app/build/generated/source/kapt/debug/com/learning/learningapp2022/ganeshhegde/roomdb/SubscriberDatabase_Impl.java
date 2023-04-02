@@ -55,7 +55,7 @@ public final class SubscriberDatabase_Impl extends SubscriberDatabase {
       }
 
       @Override
-      protected void onCreate(SupportSQLiteDatabase _db) {
+      public void onCreate(SupportSQLiteDatabase _db) {
         if (mCallbacks != null) {
           for (int _i = 0, _size = mCallbacks.size(); _i < _size; _i++) {
             mCallbacks.get(_i).onCreate(_db);
@@ -84,7 +84,7 @@ public final class SubscriberDatabase_Impl extends SubscriberDatabase {
       }
 
       @Override
-      protected RoomOpenHelper.ValidationResult onValidateSchema(SupportSQLiteDatabase _db) {
+      public RoomOpenHelper.ValidationResult onValidateSchema(SupportSQLiteDatabase _db) {
         final HashMap<String, TableInfo.Column> _columnsSubscriberDataTable = new HashMap<String, TableInfo.Column>(3);
         _columnsSubscriberDataTable.put("sub_id", new TableInfo.Column("sub_id", "INTEGER", true, 1, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsSubscriberDataTable.put("sub_name", new TableInfo.Column("sub_name", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
