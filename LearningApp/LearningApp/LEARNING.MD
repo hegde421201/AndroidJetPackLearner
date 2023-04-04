@@ -23,4 +23,4 @@
 |viewModelScope|[ViewModelScope](https://github.com/hegde421201/AndroidJetPackLearner/blob/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/coroutines/CoroutinesViewModel.kt)|
 |lifecyclescope|[Lifecyclescope](https://github.com/hegde421201/AndroidJetPackLearner/blob/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/coroutines/CoroutinesViewModel.kt)|
 |room database persistence|[Room DB](https://github.com/hegde421201/AndroidJetPackLearner/blob/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/roomdb/RoomDemoActivity.kt)|
-|room database Auto migrations|[Automigrations](https://github.com/hegde421201/AndroidJetPackLearner/blob/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/roomdb/RoomDemoActivity.kt)|
+|room database Auto migrations|[Automigrations](https://github.com/hegde421201/AndroidJetPackLearner/tree/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/roomdb/employee)|
