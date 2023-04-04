@@ -1,7 +1,10 @@
 package com.learning.learningapp2022.ganeshhegde.roomdb
 
+//repository class in the MVVM architecture
+// -- with the dao interface as the constructor parameter. We call the dao interface methods using repository
 class SubscriberRepository(private val dao:SubscribeDAO) {
 
+    //this is from livedata
     val subscribers = dao.getAllSubscribers()
 
     suspend fun insert(subscriber : Subscriber){
@@ -21,3 +24,5 @@ class SubscriberRepository(private val dao:SubscribeDAO) {
     }
 }
 
+//In MVVM architecture --- the repository class will act as a mediator between the various data sources (remote web data sources and local database)
+//and the viewmodel class. The data source can also be a cache.

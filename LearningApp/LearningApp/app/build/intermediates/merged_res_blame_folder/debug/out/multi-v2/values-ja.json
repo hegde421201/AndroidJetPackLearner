@@ -21,40 +21,6 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/4bfef499ba395a07ec8ff35c26425f9f/transformed/navigation-ui-2.5.1/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,154",
-                        "endColumns": "98,109",
-                        "endOffsets": "149,259"
-                    },
-                    "to": {
-                        "startLines": "102,103",
-                        "startColumns": "4,4",
-                        "startOffsets": "7901,8000",
-                        "endColumns": "98,109",
-                        "endOffsets": "7995,8105"
-                    }
-                },
-                {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/12eb1a0749e09ab400d79d7b2950508f/transformed/navigation-dynamic-features-fragment-2.5.1/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,153,246,341,405,478",
-                        "endColumns": "97,92,94,63,72,67",
-                        "endOffsets": "148,241,336,400,473,541"
-                    },
-                    "to": {
-                        "startLines": "49,50,51,107,110,111",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "4145,4243,4336,8334,8535,8608",
-                        "endColumns": "97,92,94,63,72,67",
-                        "endOffsets": "4238,4331,4426,8393,8603,8671"
-                    }
-                },
-                {
                     "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2",
@@ -105,6 +71,40 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,44,45,46,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,109",
                         "endColumns": "12,66,63,68,80,81,84,103,75,62,83,63,57,80,60,63,54,58,56,53,92,55,56,53,65,99,75,80,121,61,61,78,52,50,65,69,69,76,63,70,67,62,78,62,79,81,71,70,71,47,63,74,76,61,63,62,85,83,80,84,56,54,72",
                         "endOffsets": "298,2951,3015,3084,3165,3247,3332,3436,3512,3828,3912,3976,4484,4565,4626,4690,4745,4804,4861,4915,5008,5064,5121,5175,5241,5341,5417,5498,5620,5682,5744,5823,5876,5927,5993,6063,6133,6210,6274,6345,6413,6476,6555,6618,6698,6780,6852,6923,6995,7043,7107,7182,7259,7321,7385,7448,7534,7618,7699,7784,7841,7896,8530"
+                    }
+                },
+                {
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,153,246,341,405,478",
+                        "endColumns": "97,92,94,63,72,67",
+                        "endOffsets": "148,241,336,400,473,541"
+                    },
+                    "to": {
+                        "startLines": "49,50,51,107,110,111",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4145,4243,4336,8334,8535,8608",
+                        "endColumns": "97,92,94,63,72,67",
+                        "endOffsets": "4238,4331,4426,8393,8603,8671"
+                    }
+                },
+                {
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/958158cea4b5b3d0a3c2d386c7b98b08/transformed/navigation-ui-2.5.3/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,154",
+                        "endColumns": "98,109",
+                        "endOffsets": "149,259"
+                    },
+                    "to": {
+                        "startLines": "102,103",
+                        "startColumns": "4,4",
+                        "startOffsets": "7901,8000",
+                        "endColumns": "98,109",
+                        "endOffsets": "7995,8105"
                     }
                 }
             ]

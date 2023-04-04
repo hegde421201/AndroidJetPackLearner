@@ -13,6 +13,7 @@ class RecyclerActivity : AppCompatActivity() {
 
     private lateinit var rBinding:RecyclerDemoBinding
 
+    //planets to be displayed in the recyclerview
     private val planetsList = listOf(Planets("Earth",6378),
         Planets("Jupiter",71500),
         Planets("Mars",3396),
@@ -31,7 +32,11 @@ class RecyclerActivity : AppCompatActivity() {
 
         rBinding.testRecyclerView.apply {
             setBackgroundColor(Color.MAGENTA)
+
+            //layout manager
             layoutManager = LinearLayoutManager(this@RecyclerActivity)
+
+            //set the adapter for the recyclerview and pass the list of planets as a constructor parameter
             adapter = RecyclerAdapter(planetsList) { planetItem: Planets ->
                 listItemClicked(planetItem)
             }

@@ -28,6 +28,7 @@ class WelcomeFragment : Fragment() {
 
         welcomeBinding = DataBindingUtil.inflate(inflater,R.layout.fragment_welcome,container,false)
 
+        //get the data from the bundle --- this is the destination fragment getting data from the source fragment
         val email= arguments?.getString("email_text")
         val name = arguments?.getString("name_text")
 

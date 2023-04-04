@@ -1,82 +1,82 @@
 [
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/list_items_demo.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/list_items_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/room_subscribers.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_subscribers.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/livedataexample.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/livedataexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/coroutines.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/coroutines.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/room_subscribers.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_subscribers.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_welcome.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_welcome.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_home.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/activity_employee.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_employee.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/activity_nav2.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_nav2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/recycler_demo.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/recycler_demo.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_second.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_email.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_email.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_welcome.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_welcome.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_second2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second2.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_home2.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_terms.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_terms.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_second2.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_first.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_first.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/room_list_item.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_list_item.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/room_list_item.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_list_item.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/navexample.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/navexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/databinding.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/databinding.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/recycler_demo.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/recycler_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/navexample.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/navexample.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/vmactivity.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/vmactivity.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/activity_nav2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_nav2.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_name.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_name.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_first.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_first.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/coroutines.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/coroutines.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/list_items_demo.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/list_items_demo.xml"
     },
     {
         "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/livedataexample.xml",
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/livedataexample.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_terms.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_terms.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_home.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_email.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_email.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/vmactivity.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/vmactivity.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/databinding.xml",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/databinding.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_second.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_home2.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-73:/layout/fragment_name.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_name.xml"
     }
 ]

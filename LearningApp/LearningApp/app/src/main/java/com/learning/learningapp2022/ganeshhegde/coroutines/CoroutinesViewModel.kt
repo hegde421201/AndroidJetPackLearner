@@ -16,6 +16,7 @@ class CoroutinesViewModel : ViewModel(){
 
     fun getUserData(){
 
+        //viewmodelscope is a coroutinescope tied to a viewmodel
         viewModelScope.launch {
             var result : List<User>? = null
             withContext(Dispatchers.IO){

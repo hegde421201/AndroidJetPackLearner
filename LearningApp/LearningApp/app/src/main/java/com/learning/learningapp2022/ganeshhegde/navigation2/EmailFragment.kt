@@ -37,6 +37,8 @@ class EmailFragment : Fragment() {
             if(!TextUtils.isEmpty(eBinding.textEmailAddress.text.toString()))
             {
                 val bundle = bundleOf("email_text" to eBinding.textEmailAddress.text.toString(),"name_text" to stringName)
+
+                //navigation to the destination
                 it.findNavController().navigate(R.id.action_emailFragment_to_welcomeFragment,bundle)
             }else
                 Toast.makeText(activity,"Enter email",Toast.LENGTH_SHORT).show()

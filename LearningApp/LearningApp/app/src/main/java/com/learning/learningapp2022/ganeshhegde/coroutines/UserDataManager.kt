@@ -23,8 +23,10 @@ class UserDataManager {
         return count + defeered.await()
     }
 
+
     suspend fun getUser2():Int{
 
+        //this is child scope ---- suspending function
         coroutineScope {
 
             launch(Dispatchers.IO){

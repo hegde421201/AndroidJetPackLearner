@@ -4,20 +4,20 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-72:/values-uz/values-uz.xml",
             "map": [
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/4bfef499ba395a07ec8ff35c26425f9f/transformed/navigation-ui-2.5.1/res/values-uz/values-uz.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-uz/values-uz.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,156",
-                        "endColumns": "100,121",
-                        "endOffsets": "151,273"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,159,250,347,411,487",
+                        "endColumns": "103,90,96,63,75,77",
+                        "endOffsets": "154,245,342,406,482,560"
                     },
                     "to": {
-                        "startLines": "102,103",
-                        "startColumns": "4,4",
-                        "startOffsets": "8655,8756",
-                        "endColumns": "100,121",
-                        "endOffsets": "8751,8873"
+                        "startLines": "49,50,51,107,110,111",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4452,4556,4647,9122,9336,9412",
+                        "endColumns": "103,90,96,63,75,77",
+                        "endOffsets": "4551,4642,4739,9181,9407,9485"
                     }
                 },
                 {
@@ -57,23 +57,6 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/12eb1a0749e09ab400d79d7b2950508f/transformed/navigation-dynamic-features-fragment-2.5.1/res/values-uz/values-uz.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,159,250,347,411,487",
-                        "endColumns": "103,90,96,63,75,77",
-                        "endOffsets": "154,245,342,406,482,560"
-                    },
-                    "to": {
-                        "startLines": "49,50,51,107,110,111",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "4452,4556,4647,9122,9336,9412",
-                        "endColumns": "103,90,96,63,75,77",
-                        "endOffsets": "4551,4642,4739,9181,9407,9485"
-                    }
-                },
-                {
                     "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/1ff575871bc43710ca297ef124c4e9eb/transformed/ui-1.0.1/res/values-uz/values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
@@ -88,6 +71,23 @@
                         "startOffsets": "3731,3830,3915,4256,4339,8878,8971,9054,9186,9574,9749,9817",
                         "endColumns": "98,84,103,82,112,92,82,67,66,73,67,116",
                         "endOffsets": "3825,3910,4014,4334,4447,8966,9049,9117,9248,9643,9812,9929"
+                    }
+                },
+                {
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/958158cea4b5b3d0a3c2d386c7b98b08/transformed/navigation-ui-2.5.3/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,156",
+                        "endColumns": "100,121",
+                        "endOffsets": "151,273"
+                    },
+                    "to": {
+                        "startLines": "102,103",
+                        "startColumns": "4,4",
+                        "startOffsets": "8655,8756",
+                        "endColumns": "100,121",
+                        "endOffsets": "8751,8873"
                     }
                 },
                 {

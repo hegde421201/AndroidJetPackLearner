@@ -9,6 +9,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
+            android:name=".roomdb.employee.EmployeeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_employee"
+            android:theme="@style/Theme.LearningApp.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".roomdb.RoomDemoActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
@@ -19,58 +30,41 @@
             android:name=".coroutines.lifecycledemo.LifeCycleScopeActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".coroutines.CoroutinesActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".recyclerview.RecyclerActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".navigation2.Nav2Activity"
             android:exported="true"
-            android:label="@string/title_activity_nav2">
-        </activity>
+            android:label="@string/title_activity_nav2" />
         <activity
             android:name=".navigation.NavigationActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".livedata.LiveDataActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".viewmodel.VMActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name=".databinding.DataBindingActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-
-        </activity>
-
+            android:windowSoftInputMode="stateAlwaysHidden" />
     </application>
 
 </manifest>

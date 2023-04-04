@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- We use layout tag for data binding
+
+An example that you can see below
+
+android:text="@={subViewModel.inputName}"
+
+@= is for two-way data binding
+-->
 <layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -75,7 +84,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.6"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_save"
+        app:layout_constraintTop_toBottomOf="@+id/btn_save"
         app:layout_constraintVertical_bias="1.0" />
 
 

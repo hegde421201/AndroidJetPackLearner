@@ -4,20 +4,20 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-72:/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/4bfef499ba395a07ec8ff35c26425f9f/transformed/navigation-ui-2.5.1/res/values-sk/values-sk.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-sk/values-sk.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,161",
-                        "endColumns": "105,126",
-                        "endOffsets": "156,283"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,160,263,357,421,497",
+                        "endColumns": "104,102,93,63,75,76",
+                        "endOffsets": "155,258,352,416,492,569"
                     },
                     "to": {
-                        "startLines": "104,105",
-                        "startColumns": "4,4",
-                        "startOffsets": "8696,8802",
-                        "endColumns": "105,126",
-                        "endOffsets": "8797,8924"
+                        "startLines": "51,52,53,109,112,113",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4543,4648,4751,9169,9381,9457",
+                        "endColumns": "104,102,93,63,75,76",
+                        "endOffsets": "4643,4746,4840,9228,9452,9529"
                     }
                 },
                 {
@@ -55,20 +55,20 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/12eb1a0749e09ab400d79d7b2950508f/transformed/navigation-dynamic-features-fragment-2.5.1/res/values-sk/values-sk.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/958158cea4b5b3d0a3c2d386c7b98b08/transformed/navigation-ui-2.5.3/res/values-sk/values-sk.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,160,263,357,421,497",
-                        "endColumns": "104,102,93,63,75,76",
-                        "endOffsets": "155,258,352,416,492,569"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,161",
+                        "endColumns": "105,126",
+                        "endOffsets": "156,283"
                     },
                     "to": {
-                        "startLines": "51,52,53,109,112,113",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "4543,4648,4751,9169,9381,9457",
-                        "endColumns": "104,102,93,63,75,76",
-                        "endOffsets": "4643,4746,4840,9228,9452,9529"
+                        "startLines": "104,105",
+                        "startColumns": "4,4",
+                        "startOffsets": "8696,8802",
+                        "endColumns": "105,126",
+                        "endOffsets": "8797,8924"
                     }
                 },
                 {

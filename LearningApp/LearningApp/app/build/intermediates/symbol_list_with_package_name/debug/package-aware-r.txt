@@ -2870,6 +2870,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id First2Fragment
 id META
 id NO_DEBUG
 id SHIFT
@@ -2877,6 +2878,7 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id Second3Fragment
 id TOP_END
 id TOP_START
 id accelerate
@@ -2917,6 +2919,8 @@ id action0
 id actionDown
 id actionDownUp
 id actionUp
+id action_First2Fragment_to_Second3Fragment
+id action_Second3Fragment_to_First2Fragment
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -2975,6 +2979,7 @@ id bounceStart
 id btnClear
 id btnCount
 id btnDownload
+id btnSubmit
 id btn_save
 id button
 id buttonAdd
@@ -3069,9 +3074,12 @@ id editSubEmailAddress
 id editSubscriberName
 id editTextAnything
 id editTextDouble
+id editTextEmailAddress
 id editTextName
 id editTextName2
 id editTextNumber
+id editTextPersonName
+id editTextSalary
 id edit_query
 id elastic
 id emailFragment
@@ -3218,6 +3226,7 @@ id nameFragment
 id name_text_view
 id nav_controller_view_tag
 id nav_graph
+id nav_graph2
 id nav_graphhome
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
@@ -3556,6 +3565,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_employee
 layout activity_nav2
 layout coroutines
 layout custom_dialog
@@ -3665,6 +3675,7 @@ layout vmactivity
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
+navigation nav_graph2
 navigation nav_graphhome
 plurals mtrl_badge_content_description
 raw keep
@@ -3871,6 +3882,7 @@ string template_percent
 string terms
 string terms_and_conditions
 string textview
+string title_activity_employee
 string title_activity_nav2
 string type_here
 string type_number_here

@@ -23,8 +23,6 @@ class RecyclerAdapterView(private val subscriberList:List<Subscriber>,private va
     override fun getItemCount(): Int {
             return subscriberList.size
     }
-
-
 }
 
 class MyViewHolder(val binding:RoomListItemBinding) : RecyclerView.ViewHolder(binding.root){

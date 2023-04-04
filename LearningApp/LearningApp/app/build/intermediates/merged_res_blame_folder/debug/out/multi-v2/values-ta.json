@@ -23,20 +23,20 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/12eb1a0749e09ab400d79d7b2950508f/transformed/navigation-dynamic-features-fragment-2.5.1/res/values-ta/values-ta.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/958158cea4b5b3d0a3c2d386c7b98b08/transformed/navigation-ui-2.5.3/res/values-ta/values-ta.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,165,261,361,426,504",
-                        "endColumns": "109,95,99,64,77,79",
-                        "endOffsets": "160,256,356,421,499,579"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,163",
+                        "endColumns": "107,126",
+                        "endOffsets": "158,285"
                     },
                     "to": {
-                        "startLines": "49,50,51,107,110,111",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "4572,4682,4778,9398,9628,9706",
-                        "endColumns": "109,95,99,64,77,79",
-                        "endOffsets": "4677,4773,4873,9458,9701,9781"
+                        "startLines": "102,103",
+                        "startColumns": "4,4",
+                        "startOffsets": "8897,9005",
+                        "endColumns": "107,126",
+                        "endOffsets": "9000,9127"
                     }
                 },
                 {
@@ -74,20 +74,20 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/4bfef499ba395a07ec8ff35c26425f9f/transformed/navigation-ui-2.5.1/res/values-ta/values-ta.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-ta/values-ta.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,163",
-                        "endColumns": "107,126",
-                        "endOffsets": "158,285"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,165,261,361,426,504",
+                        "endColumns": "109,95,99,64,77,79",
+                        "endOffsets": "160,256,356,421,499,579"
                     },
                     "to": {
-                        "startLines": "102,103",
-                        "startColumns": "4,4",
-                        "startOffsets": "8897,9005",
-                        "endColumns": "107,126",
-                        "endOffsets": "9000,9127"
+                        "startLines": "49,50,51,107,110,111",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4572,4682,4778,9398,9628,9706",
+                        "endColumns": "109,95,99,64,77,79",
+                        "endOffsets": "4677,4773,4873,9458,9701,9781"
                     }
                 },
                 {

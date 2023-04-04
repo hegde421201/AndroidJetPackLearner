@@ -3,8 +3,10 @@ package com.learning.learningapp2022.ganeshhegde.roomdb
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
+//using the repository as a parameter in the constructor
 class SubscribeViewModel(private val repository:SubscriberRepository) : ViewModel() {
 
     var inputName = MutableLiveData<String?>()
@@ -55,26 +57,27 @@ class SubscribeViewModel(private val repository:SubscriberRepository) : ViewMode
     val subscribers = repository.subscribers
 
     fun clearAll(){
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) {
             repository.deleteAll()
         }
     }
 
 
-    fun insert(subscriber: Subscriber){
-        viewModelScope.launch {
+    fun insert(subscriber: Subscriber) =
+        viewModelScope.launch(Dispatchers.IO) { //call using background thread
             repository.insert(subscriber)
-        }
+
     }
+
     fun update(subscriber: Subscriber){
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) {
             repository.update(subscriber)
         }
     }
 
-    fun delete(subscriber: Subscriber){
-        viewModelScope.launch {
+    fun delete(subscriber: Subscriber)
+       = viewModelScope.launch {
             repository.delete(subscriber)
-        }
+
     }
 }

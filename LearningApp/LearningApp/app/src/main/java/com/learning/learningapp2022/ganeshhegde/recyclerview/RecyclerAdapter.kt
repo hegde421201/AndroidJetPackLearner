@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.learning.learningapp2022.ganeshhegde.R
 
 
-
+//subclass of the adapter class for the recyclerview
 class RecyclerAdapter(
                 private val planetsList: List<Planets>,
                 private val clickListener: (Planets) -> Unit) : RecyclerView.Adapter<RViewHolder>() {
@@ -19,12 +19,13 @@ class RecyclerAdapter(
      override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RViewHolder {
 
          val layoutInflater = LayoutInflater.from(parent.context)
+        //layout for the list item to be displayed in each row to be inflated using XML
          val listItem = layoutInflater.inflate(R.layout.list_items_demo,parent,false)
 
          return RViewHolder(listItem)
      }
 
-    //this method onBindViewHolder -- to display data on the list item above
+    //this method onBindViewHolder -- to display data on the list item above ---- Rviewholder class will call this method
      override fun onBindViewHolder(holder: RViewHolder, position: Int) {
             val planet = planetsList[position]
             holder.bind(planet,clickListener)
@@ -36,8 +37,10 @@ class RecyclerAdapter(
      }
  }
 
+//subclass of the view holder class. view is a constructor paramater
 class RViewHolder(val view: View) : RecyclerView.ViewHolder(view){
 
+    //get the view components using findviewbyid
     fun bind(planet: Planets,clickListener: (Planets) -> Unit){
         val myTextView = view.findViewById<TextView>(R.id.tvNames)
         val name = planet.name

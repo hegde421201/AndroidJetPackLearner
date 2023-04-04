@@ -3,14 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_employee.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/activity_nav2.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/coroutines.xml" value="0.31567028985507245" />
         <entry key="app/src/main/res/layout/databinding.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/list_items_demo.xml" value="0.31567028985507245" />
         <entry key="app/src/main/res/layout/livedataexample.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/navexample.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/room_list_item.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/room_subscribers.xml" value="0.31567028985507245" />
         <entry key="app/src/main/res/layout/vmactivity.xml" value="0.2509057971014493" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

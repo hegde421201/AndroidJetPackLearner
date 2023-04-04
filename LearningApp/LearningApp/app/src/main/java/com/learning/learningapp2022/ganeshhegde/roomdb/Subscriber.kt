@@ -4,6 +4,8 @@ import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
+
+//subscriber table with ID as the primary key
 @Entity(tableName ="subscriber_data_table")
 data class Subscriber(
 
@@ -16,7 +18,5 @@ data class Subscriber(
 
     @ColumnInfo(name="sub_email")
     val email:String
-
-
 
 )

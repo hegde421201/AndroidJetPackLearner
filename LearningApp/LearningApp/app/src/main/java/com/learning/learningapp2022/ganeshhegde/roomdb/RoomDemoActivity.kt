@@ -20,14 +20,20 @@ class RoomDemoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         rBinding = DataBindingUtil.setContentView(this,R.layout.room_subscribers)
 
+        //dao instance
         val dao = SubscriberDatabase.getInstance(application).subscriberDao
+
+        //repository instance using dao
         val repository = SubscriberRepository(dao)
 
+        //factory instance using the repository class
         val factory = SubscriberViewModelFactory(repository)
-        subscribeViewModel = ViewModelProvider(this,factory).get(SubscribeViewModel::class.java)
+
+        //create the viewmodel instance
+        subscribeViewModel = ViewModelProvider(this,factory)[SubscribeViewModel::class.java]
         rBinding.subViewModel = subscribeViewModel
 
-
+        //since databinding is used ---- for livedata
         rBinding.lifecycleOwner = this
 
         initRecyclerView()

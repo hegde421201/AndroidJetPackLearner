@@ -38,23 +38,6 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/12eb1a0749e09ab400d79d7b2950508f/transformed/navigation-dynamic-features-fragment-2.5.1/res/values-am/values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,146,235,325,389,462",
-                        "endColumns": "90,88,89,63,72,74",
-                        "endOffsets": "141,230,320,384,457,532"
-                    },
-                    "to": {
-                        "startLines": "49,50,51,107,110,111",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "4211,4302,4391,8543,8749,8822",
-                        "endColumns": "90,88,89,63,72,74",
-                        "endOffsets": "4297,4386,4476,8602,8817,8892"
-                    }
-                },
-                {
                     "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2",
@@ -91,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/4bfef499ba395a07ec8ff35c26425f9f/transformed/navigation-ui-2.5.1/res/values-am/values-am.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/958158cea4b5b3d0a3c2d386c7b98b08/transformed/navigation-ui-2.5.3/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -105,6 +88,23 @@
                         "startOffsets": "8103,8207",
                         "endColumns": "103,109",
                         "endOffsets": "8202,8312"
+                    }
+                },
+                {
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,146,235,325,389,462",
+                        "endColumns": "90,88,89,63,72,74",
+                        "endOffsets": "141,230,320,384,457,532"
+                    },
+                    "to": {
+                        "startLines": "49,50,51,107,110,111",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4211,4302,4391,8543,8749,8822",
+                        "endColumns": "90,88,89,63,72,74",
+                        "endOffsets": "4297,4386,4476,8602,8817,8892"
                     }
                 }
             ]
