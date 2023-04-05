@@ -26,9 +26,29 @@ class RetrofitActivity : AppCompatActivity() {
             .getRetrofitInstance()
             .create(AlbumService::class.java)
 
-       getRequestPathParams()
-       getRequestQueryParams()
+   //    getRequestPathParams()
+     //  getRequestQueryParams()
 
+       uploadAlbum()
+    }
+
+    private fun uploadAlbum() {
+        val album = AlbumsItem(100,"Ibne batuta",3)
+
+        val postResponse : LiveData<Response<AlbumsItem>> = liveData {
+            val response = retrofitService.uploadAlbum(album)
+            emit(response)
+        }
+
+        postResponse.observe(this,Observer{
+                val receivedAlbumItem:AlbumsItem? = it.body()
+            val text_view = findViewById<TextView>(R.id.retro_text)
+            val result = "\n" + "Album title : ${receivedAlbumItem?.title}" +"\n"+
+                    " " + "Album ID : ${receivedAlbumItem?.id}" +"\n"+
+                    " " + "User ID : ${receivedAlbumItem?.userId}" +"\n\n\n"
+
+            text_view.append(result)
+        })
 
     }
 
