@@ -3227,6 +3227,7 @@ id name_text_view
 id nav_controller_view_tag
 id nav_graph
 id nav_graph2
+id nav_graph3
 id nav_graphhome
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
@@ -3280,6 +3281,7 @@ id radio
 id ratio
 id rectangles
 id recyclerSubscriber
+id retro_text
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3297,6 +3299,7 @@ id scroll
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id scrollView2
 id scrollable
 id search_badge
 id search_bar
@@ -3567,6 +3570,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_employee
 layout activity_nav2
+layout activity_retrofit
 layout coroutines
 layout custom_dialog
 layout databinding
@@ -3676,6 +3680,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
 navigation nav_graph2
+navigation nav_graph3
 navigation nav_graphhome
 plurals mtrl_badge_content_description
 raw keep
@@ -3884,6 +3889,7 @@ string terms_and_conditions
 string textview
 string title_activity_employee
 string title_activity_nav2
+string title_activity_retrofit
 string type_here
 string type_number_here
 string welcome

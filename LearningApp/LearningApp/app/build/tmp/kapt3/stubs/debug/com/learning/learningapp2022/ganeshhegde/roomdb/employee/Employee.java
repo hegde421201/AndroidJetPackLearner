@@ -8,41 +8,41 @@ public final class Employee {
     @androidx.room.ColumnInfo(name = "emp_id")
     @androidx.room.PrimaryKey(autoGenerate = true)
     private final int id = 0;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     @androidx.room.ColumnInfo(name = "emp_name")
     private final java.lang.String name = null;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     @androidx.room.ColumnInfo(name = "emp_email")
     private final java.lang.String email = null;
-    @androidx.room.ColumnInfo(name = "emp_salary", defaultValue = "0.0")
+    @androidx.room.ColumnInfo(name = "emp_ctc", defaultValue = "0.0")
     private final double salary = 0.0;
     
-    @org.jetbrains.annotations.NotNull
-    public final com.learning.learningapp2022.ganeshhegde.roomdb.employee.Employee copy(int id, @org.jetbrains.annotations.NotNull
-    java.lang.String name, @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
+    public final com.learning.learningapp2022.ganeshhegde.roomdb.employee.Employee copy(int id, @org.jetbrains.annotations.NotNull()
+    java.lang.String name, @org.jetbrains.annotations.NotNull()
     java.lang.String email, double salary) {
         return null;
     }
     
-    @java.lang.Override
-    public boolean equals(@org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    public boolean equals(@org.jetbrains.annotations.Nullable()
     java.lang.Object other) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int hashCode() {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
-    @java.lang.Override
+    @org.jetbrains.annotations.NotNull()
+    @java.lang.Override()
     public java.lang.String toString() {
         return null;
     }
     
-    public Employee(int id, @org.jetbrains.annotations.NotNull
-    java.lang.String name, @org.jetbrains.annotations.NotNull
+    public Employee(int id, @org.jetbrains.annotations.NotNull()
+    java.lang.String name, @org.jetbrains.annotations.NotNull()
     java.lang.String email, double salary) {
         super();
     }
@@ -55,22 +55,22 @@ public final class Employee {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String component2() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String getName() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String component3() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String getEmail() {
         return null;
     }

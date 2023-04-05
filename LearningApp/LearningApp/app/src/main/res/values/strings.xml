@@ -49,5 +49,6 @@
         <item>Pluto</item>
     </string-array>
     <string name="title_activity_employee">EmployeeActivity</string>
+    <string name="title_activity_retrofit">RetrofitActivity</string>
 
 </resources>

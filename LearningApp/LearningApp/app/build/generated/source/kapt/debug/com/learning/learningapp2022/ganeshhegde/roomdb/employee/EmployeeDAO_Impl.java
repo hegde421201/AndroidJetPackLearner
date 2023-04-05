@@ -29,7 +29,7 @@ public final class EmployeeDAO_Impl implements EmployeeDAO {
     this.__insertionAdapterOfEmployee = new EntityInsertionAdapter<Employee>(__db) {
       @Override
       public String createQuery() {
-        return "INSERT OR ABORT INTO `employee_info` (`emp_id`,`emp_name`,`emp_email`,`emp_salary`) VALUES (nullif(?, 0),?,?,?)";
+        return "INSERT OR ABORT INTO `employee_info` (`emp_id`,`emp_name`,`emp_email`,`emp_ctc`) VALUES (nullif(?, 0),?,?,?)";
       }
 
       @Override

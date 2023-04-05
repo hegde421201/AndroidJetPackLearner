@@ -6,39 +6,39 @@ import java.lang.System;
 public final class LDViewModel extends androidx.lifecycle.ViewModel {
     private final double number = 0.0;
     private androidx.lifecycle.MutableLiveData<java.lang.Double> multiplier;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     private androidx.lifecycle.MutableLiveData<java.lang.String> userInput;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     private androidx.lifecycle.MutableLiveData<java.lang.String> userName;
     
     public LDViewModel(double number) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final androidx.lifecycle.MutableLiveData<java.lang.String> getUserInput() {
         return null;
     }
     
-    public final void setUserInput(@org.jetbrains.annotations.NotNull
+    public final void setUserInput(@org.jetbrains.annotations.NotNull()
     androidx.lifecycle.MutableLiveData<java.lang.String> p0) {
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final androidx.lifecycle.MutableLiveData<java.lang.String> getUserName() {
         return null;
     }
     
-    public final void setUserName(@org.jetbrains.annotations.NotNull
+    public final void setUserName(@org.jetbrains.annotations.NotNull()
     androidx.lifecycle.MutableLiveData<java.lang.String> p0) {
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final androidx.lifecycle.LiveData<java.lang.Double> getMultData() {
         return null;
     }
     
-    public final void multAnswer(@org.jetbrains.annotations.NotNull
+    public final void multAnswer(@org.jetbrains.annotations.NotNull()
     java.lang.String input) {
     }
 }

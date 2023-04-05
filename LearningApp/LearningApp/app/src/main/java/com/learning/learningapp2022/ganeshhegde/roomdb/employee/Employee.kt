@@ -19,7 +19,10 @@ data class Employee(
     @ColumnInfo(name="emp_email")
     val email:String,
 
-    @ColumnInfo(name="emp_salary", defaultValue = 0.0.toString())
+    //we rename emp_salary to emp_ctc
+
+
+    @ColumnInfo(name="emp_ctc", defaultValue = 0.0.toString())
     val salary:Double
 
 )

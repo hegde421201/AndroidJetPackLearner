@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,9 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
-            android:name=".roomdb.employee.EmployeeActivity"
+            android:name=".retrofit.kotlin.RetrofitActivity"
             android:exported="true"
-            android:label="@string/title_activity_employee"
+            android:label="@string/title_activity_retrofit"
             android:theme="@style/Theme.LearningApp.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,12 +21,17 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".roomdb.employee.EmployeeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_employee"
+            android:theme="@style/Theme.LearningApp.NoActionBar">
+
+        </activity>
+        <activity
             android:name=".roomdb.RoomDemoActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden">
-
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden"></activity>
         <activity
             android:name=".coroutines.lifecycledemo.LifeCycleScopeActivity"
             android:exported="true"

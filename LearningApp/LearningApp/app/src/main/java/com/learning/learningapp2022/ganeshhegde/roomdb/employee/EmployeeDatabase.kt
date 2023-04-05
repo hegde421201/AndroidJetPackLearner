@@ -1,18 +1,19 @@
 package com.learning.learningapp2022.ganeshhegde.roomdb.employee
 
 import android.content.Context
-import androidx.room.AutoMigration
-import androidx.room.Database
-import androidx.room.Room
-import androidx.room.RoomDatabase
+import androidx.room.*
+import androidx.room.migration.AutoMigrationSpec
 
 
-
-@Database(entities = [Employee::class],version = 2, autoMigrations = [AutoMigration(from = 1, to = 2)])
+@Database(entities = [Employee::class],version = 3, autoMigrations = [AutoMigration(from = 1, to = 2),
+    AutoMigration(from = 2, to = 3, spec = EmployeeDatabase.Migration2To3::class)])
 abstract class EmployeeDatabase : RoomDatabase() {
 
     //reference for the DAO interface
     abstract val employeeDao: EmployeeDAO
+
+    @RenameColumn(tableName = "employee_info", fromColumnName = "emp_salary", toColumnName ="emp_ctc")
+    class Migration2To3:AutoMigrationSpec
 
     //creating just one instance of room database --- using singleton class ---- companion object
     companion object {

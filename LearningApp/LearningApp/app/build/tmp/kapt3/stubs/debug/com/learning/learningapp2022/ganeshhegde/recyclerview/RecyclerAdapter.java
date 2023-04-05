@@ -7,25 +7,25 @@ public final class RecyclerAdapter extends androidx.recyclerview.widget.Recycler
     private final java.util.List<com.learning.learningapp2022.ganeshhegde.recyclerview.Planets> planetsList = null;
     private final kotlin.jvm.functions.Function1<com.learning.learningapp2022.ganeshhegde.recyclerview.Planets, kotlin.Unit> clickListener = null;
     
-    public RecyclerAdapter(@org.jetbrains.annotations.NotNull
-    java.util.List<com.learning.learningapp2022.ganeshhegde.recyclerview.Planets> planetsList, @org.jetbrains.annotations.NotNull
+    public RecyclerAdapter(@org.jetbrains.annotations.NotNull()
+    java.util.List<com.learning.learningapp2022.ganeshhegde.recyclerview.Planets> planetsList, @org.jetbrains.annotations.NotNull()
     kotlin.jvm.functions.Function1<? super com.learning.learningapp2022.ganeshhegde.recyclerview.Planets, kotlin.Unit> clickListener) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
-    @java.lang.Override
-    public com.learning.learningapp2022.ganeshhegde.recyclerview.RViewHolder onCreateViewHolder(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
+    @java.lang.Override()
+    public com.learning.learningapp2022.ganeshhegde.recyclerview.RViewHolder onCreateViewHolder(@org.jetbrains.annotations.NotNull()
     android.view.ViewGroup parent, int viewType) {
         return null;
     }
     
-    @java.lang.Override
-    public void onBindViewHolder(@org.jetbrains.annotations.NotNull
+    @java.lang.Override()
+    public void onBindViewHolder(@org.jetbrains.annotations.NotNull()
     com.learning.learningapp2022.ganeshhegde.recyclerview.RViewHolder holder, int position) {
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int getItemCount() {
         return 0;
     }

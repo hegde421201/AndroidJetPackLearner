@@ -6,14 +6,14 @@ import java.lang.System;
 public final class SubscriberViewModelFactory implements androidx.lifecycle.ViewModelProvider.Factory {
     private final com.learning.learningapp2022.ganeshhegde.roomdb.SubscriberRepository repository = null;
     
-    public SubscriberViewModelFactory(@org.jetbrains.annotations.NotNull
+    public SubscriberViewModelFactory(@org.jetbrains.annotations.NotNull()
     com.learning.learningapp2022.ganeshhegde.roomdb.SubscriberRepository repository) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
-    @java.lang.Override
-    public <T extends androidx.lifecycle.ViewModel>T create(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
+    @java.lang.Override()
+    public <T extends androidx.lifecycle.ViewModel>T create(@org.jetbrains.annotations.NotNull()
     java.lang.Class<T> modelClass) {
         return null;
     }

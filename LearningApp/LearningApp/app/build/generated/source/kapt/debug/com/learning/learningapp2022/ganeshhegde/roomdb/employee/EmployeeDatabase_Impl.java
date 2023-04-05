@@ -36,12 +36,12 @@ public final class EmployeeDatabase_Impl extends EmployeeDatabase {
 
   @Override
   protected SupportSQLiteOpenHelper createOpenHelper(DatabaseConfiguration configuration) {
-    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(2) {
+    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(3) {
       @Override
       public void createAllTables(SupportSQLiteDatabase _db) {
-        _db.execSQL("CREATE TABLE IF NOT EXISTS `employee_info` (`emp_id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `emp_name` TEXT NOT NULL, `emp_email` TEXT NOT NULL, `emp_salary` REAL NOT NULL DEFAULT 0.0)");
+        _db.execSQL("CREATE TABLE IF NOT EXISTS `employee_info` (`emp_id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `emp_name` TEXT NOT NULL, `emp_email` TEXT NOT NULL, `emp_ctc` REAL NOT NULL DEFAULT 0.0)");
         _db.execSQL("CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)");
-        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '5ca791386673ece88cd9ee1d9ff19a90')");
+        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '4d478a90fd2ba01323b24de58fb26dae')");
       }
 
       @Override
@@ -89,7 +89,7 @@ public final class EmployeeDatabase_Impl extends EmployeeDatabase {
         _columnsEmployeeInfo.put("emp_id", new TableInfo.Column("emp_id", "INTEGER", true, 1, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsEmployeeInfo.put("emp_name", new TableInfo.Column("emp_name", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsEmployeeInfo.put("emp_email", new TableInfo.Column("emp_email", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
-        _columnsEmployeeInfo.put("emp_salary", new TableInfo.Column("emp_salary", "REAL", true, 0, "0.0", TableInfo.CREATED_FROM_ENTITY));
+        _columnsEmployeeInfo.put("emp_ctc", new TableInfo.Column("emp_ctc", "REAL", true, 0, "0.0", TableInfo.CREATED_FROM_ENTITY));
         final HashSet<TableInfo.ForeignKey> _foreignKeysEmployeeInfo = new HashSet<TableInfo.ForeignKey>(0);
         final HashSet<TableInfo.Index> _indicesEmployeeInfo = new HashSet<TableInfo.Index>(0);
         final TableInfo _infoEmployeeInfo = new TableInfo("employee_info", _columnsEmployeeInfo, _foreignKeysEmployeeInfo, _indicesEmployeeInfo);
@@ -101,7 +101,7 @@ public final class EmployeeDatabase_Impl extends EmployeeDatabase {
         }
         return new RoomOpenHelper.ValidationResult(true, null);
       }
-    }, "5ca791386673ece88cd9ee1d9ff19a90", "107471b96b80e494f03add5c03c12d2c");
+    }, "4d478a90fd2ba01323b24de58fb26dae", "4436e03a9704deaee263929601774f14");
     final SupportSQLiteOpenHelper.Configuration _sqliteConfig = SupportSQLiteOpenHelper.Configuration.builder(configuration.context)
         .name(configuration.name)
         .callback(_openCallback)
@@ -150,7 +150,8 @@ public final class EmployeeDatabase_Impl extends EmployeeDatabase {
   @Override
   public List<Migration> getAutoMigrations(
       @NonNull Map<Class<? extends AutoMigrationSpec>, AutoMigrationSpec> autoMigrationSpecsMap) {
-    return Arrays.asList(new EmployeeDatabase_AutoMigration_1_2_Impl());
+    return Arrays.asList(new EmployeeDatabase_AutoMigration_1_2_Impl(),
+        new EmployeeDatabase_AutoMigration_2_3_Impl());
   }
 
   @Override

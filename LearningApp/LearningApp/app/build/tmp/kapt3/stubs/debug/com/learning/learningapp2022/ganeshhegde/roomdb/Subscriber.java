@@ -8,39 +8,39 @@ public final class Subscriber {
     @androidx.room.ColumnInfo(name = "sub_id")
     @androidx.room.PrimaryKey(autoGenerate = true)
     private final int id = 0;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     @androidx.room.ColumnInfo(name = "sub_name")
     private final java.lang.String name = null;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     @androidx.room.ColumnInfo(name = "sub_email")
     private final java.lang.String email = null;
     
-    @org.jetbrains.annotations.NotNull
-    public final com.learning.learningapp2022.ganeshhegde.roomdb.Subscriber copy(int id, @org.jetbrains.annotations.NotNull
-    java.lang.String name, @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
+    public final com.learning.learningapp2022.ganeshhegde.roomdb.Subscriber copy(int id, @org.jetbrains.annotations.NotNull()
+    java.lang.String name, @org.jetbrains.annotations.NotNull()
     java.lang.String email) {
         return null;
     }
     
-    @java.lang.Override
-    public boolean equals(@org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    public boolean equals(@org.jetbrains.annotations.Nullable()
     java.lang.Object other) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int hashCode() {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
-    @java.lang.Override
+    @org.jetbrains.annotations.NotNull()
+    @java.lang.Override()
     public java.lang.String toString() {
         return null;
     }
     
-    public Subscriber(int id, @org.jetbrains.annotations.NotNull
-    java.lang.String name, @org.jetbrains.annotations.NotNull
+    public Subscriber(int id, @org.jetbrains.annotations.NotNull()
+    java.lang.String name, @org.jetbrains.annotations.NotNull()
     java.lang.String email) {
         super();
     }
@@ -53,22 +53,22 @@ public final class Subscriber {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String component2() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String getName() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String component3() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String getEmail() {
         return null;
     }

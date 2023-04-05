@@ -7,19 +7,19 @@ public final class CoroutinesViewModel extends androidx.lifecycle.ViewModel {
     private final kotlinx.coroutines.CompletableJob myJob = null;
     private final kotlinx.coroutines.CoroutineScope myScope = null;
     private com.learning.learningapp2022.ganeshhegde.coroutines.UserRepository userRepository;
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     private androidx.lifecycle.MutableLiveData<java.util.List<com.learning.learningapp2022.ganeshhegde.coroutines.User>> users;
     
     public CoroutinesViewModel() {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final androidx.lifecycle.MutableLiveData<java.util.List<com.learning.learningapp2022.ganeshhegde.coroutines.User>> getUsers() {
         return null;
     }
     
-    public final void setUsers(@org.jetbrains.annotations.NotNull
+    public final void setUsers(@org.jetbrains.annotations.NotNull()
     androidx.lifecycle.MutableLiveData<java.util.List<com.learning.learningapp2022.ganeshhegde.coroutines.User>> p0) {
     }
     

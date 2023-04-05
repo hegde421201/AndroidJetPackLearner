@@ -8,6 +8,9 @@
         android:minSdkVersion="23"
         android:targetSdkVersion="33" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <permission
         android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -28,9 +31,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.LearningApp" >
         <activity
-            android:name="com.learning.learningapp2022.ganeshhegde.roomdb.employee.EmployeeActivity"
+            android:name="com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.RetrofitActivity"
             android:exported="true"
-            android:label="@string/title_activity_employee"
+            android:label="@string/title_activity_retrofit"
             android:theme="@style/Theme.LearningApp.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,11 +42,16 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.learning.learningapp2022.ganeshhegde.roomdb.employee.EmployeeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_employee"
+            android:theme="@style/Theme.LearningApp.NoActionBar" >
+        </activity>
+        <activity
             android:name="com.learning.learningapp2022.ganeshhegde.roomdb.RoomDemoActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" >
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.coroutines.lifecycledemo.LifeCycleScopeActivity"
             android:exported="true"
@@ -122,6 +130,12 @@
             </intent-filter>
             <intent-filter>
                 <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
             </intent-filter>
         </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
         <activity

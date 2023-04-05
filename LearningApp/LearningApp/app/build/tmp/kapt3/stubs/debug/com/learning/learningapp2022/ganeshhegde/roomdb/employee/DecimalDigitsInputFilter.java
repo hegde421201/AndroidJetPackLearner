@@ -10,10 +10,10 @@ public final class DecimalDigitsInputFilter implements android.text.InputFilter 
         super();
     }
     
-    @org.jetbrains.annotations.Nullable
-    @java.lang.Override
-    public java.lang.CharSequence filter(@org.jetbrains.annotations.NotNull
-    java.lang.CharSequence source, int start, int end, @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    @java.lang.Override()
+    public java.lang.CharSequence filter(@org.jetbrains.annotations.NotNull()
+    java.lang.CharSequence source, int start, int end, @org.jetbrains.annotations.NotNull()
     android.text.Spanned dest, int dstart, int dend) {
         return null;
     }

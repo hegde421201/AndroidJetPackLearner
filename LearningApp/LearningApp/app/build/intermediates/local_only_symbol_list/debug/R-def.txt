@@ -66,9 +66,12 @@ id nameFragment
 id name_text_view
 id nav_graph
 id nav_graph2
+id nav_graph3
 id nav_graphhome
 id progressBar
 id recyclerSubscriber
+id retro_text
+id scrollView2
 id secondFragment
 id startMe
 id termsFragment
@@ -92,6 +95,7 @@ id txtMessage
 id welcomeFragment
 layout activity_employee
 layout activity_nav2
+layout activity_retrofit
 layout coroutines
 layout databinding
 layout fragment_email
@@ -114,6 +118,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
 navigation nav_graph2
+navigation nav_graph3
 navigation nav_graphhome
 string add
 string app_name
@@ -146,6 +151,7 @@ string terms_and_conditions
 string textview
 string title_activity_employee
 string title_activity_nav2
+string title_activity_retrofit
 string type_here
 string type_number_here
 string welcome
