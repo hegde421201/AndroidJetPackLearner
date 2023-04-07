@@ -2992,6 +2992,7 @@ int id buttonSubmit 0x7f09007c
 int id buttonTerms 0x7f09007d
 int id buttonTerms2 0x7f09007e
 int id button_first 0x7f09007f
+int id button_notify 0x7f090255
 int id button_second 0x7f090080
 int id cache_measures 0x7f090081
 int id callMeasure 0x7f090082
@@ -3227,6 +3228,7 @@ int id nav_controller_view_tag 0x7f090168
 int id nav_graph 0x7f090169
 int id nav_graph2 0x7f09016a
 int id nav_graph3 0x7f09016b
+int id nav_graph4 0x7f090257
 int id nav_graphhome 0x7f09016c
 int id nav_host_fragment_container 0x7f09016d
 int id navigation_bar_item_active_indicator_view 0x7f09016e
@@ -3397,15 +3399,18 @@ int id textStart 0x7f090210
 int id textTC 0x7f090211
 int id textTop 0x7f090212
 int id textView 0x7f090213
+int id textView3 0x7f090258
 int id textViewDisplay 0x7f090214
 int id textViewEmail 0x7f090215
 int id textViewName 0x7f090216
 int id textViewSecond 0x7f090217
+int id textView_settings 0x7f090259
 int id textWatcher 0x7f090218
 int id textWelcome 0x7f090219
 int id text_input_end_icon 0x7f09021a
 int id text_input_error_icon 0x7f09021b
 int id text_input_start_icon 0x7f09021c
+int id text_result 0x7f09025a
 int id textinput_counter 0x7f09021d
 int id textinput_error 0x7f09021e
 int id textinput_helper_text 0x7f09021f
@@ -3567,9 +3572,13 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_details 0x7f0c008a
 int layout activity_employee 0x7f0c001c
 int layout activity_nav2 0x7f0c001d
+int layout activity_notifications 0x7f0c0088
 int layout activity_retrofit 0x7f0c001e
+int layout activity_second 0x7f0c0089
+int layout activity_settings 0x7f0c008b
 int layout coroutines 0x7f0c001f
 int layout custom_dialog 0x7f0c0020
 int layout databinding 0x7f0c0021
@@ -3680,6 +3689,7 @@ int mipmap ic_launcher_round 0x7f0e0001
 int navigation nav_graph 0x7f0f0000
 int navigation nav_graph2 0x7f0f0001
 int navigation nav_graph3 0x7f0f0002
+int navigation nav_graph4 0x7f0f0004
 int navigation nav_graphhome 0x7f0f0003
 int plurals mtrl_badge_content_description 0x7f100000
 int raw keep 0x7f110000
@@ -3886,8 +3896,10 @@ int string template_percent 0x7f1200c7
 int string terms 0x7f1200c8
 int string terms_and_conditions 0x7f1200c9
 int string textview 0x7f1200ca
+int string title_activity_details 0x7f1200d3
 int string title_activity_employee 0x7f1200cb
 int string title_activity_nav2 0x7f1200cc
+int string title_activity_notify 0x7f1200d2
 int string title_activity_retrofit 0x7f1200cd
 int string type_here 0x7f1200ce
 int string type_number_here 0x7f1200cf

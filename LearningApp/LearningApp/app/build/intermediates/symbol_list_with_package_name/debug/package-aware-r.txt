@@ -2993,6 +2993,7 @@ id buttonSubmit
 id buttonTerms
 id buttonTerms2
 id button_first
+id button_notify
 id button_second
 id cache_measures
 id callMeasure
@@ -3228,6 +3229,7 @@ id nav_controller_view_tag
 id nav_graph
 id nav_graph2
 id nav_graph3
+id nav_graph4
 id nav_graphhome
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
@@ -3398,15 +3400,18 @@ id textStart
 id textTC
 id textTop
 id textView
+id textView3
 id textViewDisplay
 id textViewEmail
 id textViewName
 id textViewSecond
+id textView_settings
 id textWatcher
 id textWelcome
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_result
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3568,9 +3573,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_details
 layout activity_employee
 layout activity_nav2
+layout activity_notifications
 layout activity_retrofit
+layout activity_second
+layout activity_settings
 layout coroutines
 layout custom_dialog
 layout databinding
@@ -3681,6 +3690,7 @@ mipmap ic_launcher_round
 navigation nav_graph
 navigation nav_graph2
 navigation nav_graph3
+navigation nav_graph4
 navigation nav_graphhome
 plurals mtrl_badge_content_description
 raw keep
@@ -3887,8 +3897,10 @@ string template_percent
 string terms
 string terms_and_conditions
 string textview
+string title_activity_details
 string title_activity_employee
 string title_activity_nav2
+string title_activity_notify
 string title_activity_retrofit
 string type_here
 string type_number_here

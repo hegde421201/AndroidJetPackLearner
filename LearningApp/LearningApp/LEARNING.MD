@@ -26,3 +26,4 @@
 |room database Auto migrations|[Automigrations](https://github.com/hegde421201/AndroidJetPackLearner/tree/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/roomdb/employee)|
 |room DB Auto migrations with specifications|[Automigrations Specs](https://github.com/hegde421201/AndroidJetPackLearner/blob/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/roomdb/employee/EmployeeDatabase.kt)|
 |Retrofit|[Retrofit](https://github.com/hegde421201/AndroidJetPackLearner/tree/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/retrofit/kotlin)|
+|Notifications|[Notifications](https://github.com/hegde421201/AndroidJetPackLearner/tree/main/LearningApp/LearningApp/app/src/main/java/com/learning/learningapp2022/ganeshhegde/notifications)|

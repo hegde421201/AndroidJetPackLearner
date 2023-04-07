@@ -4,40 +4,16 @@
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_coroutines.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/coroutines.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graph2.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graph2.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_nav2.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_nav2.xml"
-    },
-    {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_retrofit.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_retrofit.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_livedataexample.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/livedataexample.xml"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_in_right.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_in_right.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_terms.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_terms.xml"
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graph4.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graph4.xml"
     },
     {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_right.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_right.xml"
     },
     {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_welcome.xml.flat",
@@ -48,52 +24,24 @@
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_vmactivity.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/vmactivity.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_databinding.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/databinding.xml"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_recycler_demo.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/recycler_demo.xml"
+    },
+    {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_second.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_second.xml"
     },
     {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graphhome.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graphhome.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_email.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_email.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graph.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graph.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_first.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_first.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-pngs-69:/drawable-anydpi-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_left.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_left.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_settings.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_settings.xml"
     },
     {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -116,32 +64,12 @@
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/list_items_demo.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_employee.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_employee.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_name.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_name.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_room_subscribers.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_subscribers.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_home2.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home2.xml"
     },
     {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_home.xml.flat",
@@ -156,6 +84,106 @@
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/room_list_item.xml"
     },
     {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_second.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_second2.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_nav2.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_nav2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/navigation_nav_graph2.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_coroutines.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/coroutines.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_livedataexample.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/livedataexample.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_terms.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_terms.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_right.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_vmactivity.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/vmactivity.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_databinding.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/databinding.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_email.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_email.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_first.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide_out_left.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_details.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/anim_slide.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/anim/slide.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_activity_notifications.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_notifications.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_name.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_name.xml"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_home2.xml.flat",
+        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_home2.xml"
+    },
+    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
@@ -168,15 +196,7 @@
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/activity_retrofit.xml"
     },
     {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_navexample.xml.flat",
         "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/navexample.xml"
-    },
-    {
-        "merged": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-merged_res-74:/layout_fragment_second2.xml.flat",
-        "source": "/Users/ganesh.r.hegde/.gradle/daemon/7.5/com.learning.learningapp2022.ganeshhegde.app-main-76:/layout/fragment_second2.xml"
     }
 ]
