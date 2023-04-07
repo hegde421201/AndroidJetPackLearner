@@ -1324,7 +1324,11 @@ int attr yearStyle 0x7f0404d1
 int attr yearTodayStyle 0x7f0404d2
 int bool abc_action_bar_embed_tabs 0x7f050000
 int bool abc_config_actionMenuItemAllCaps 0x7f050001
+int bool enable_system_alarm_service_default 0x7f050003
+int bool enable_system_foreground_service_default 0x7f050004
+int bool enable_system_job_service_default 0x7f050005
 int bool mtrl_btn_textappearance_all_caps 0x7f050002
+int bool workmanager_test_configuration 0x7f050006
 int color abc_background_cache_hint_selector_material_dark 0x7f060000
 int color abc_background_cache_hint_selector_material_light 0x7f060001
 int color abc_btn_colored_borderless_text_material 0x7f060002
@@ -2994,6 +2998,7 @@ int id buttonTerms2 0x7f09007e
 int id button_first 0x7f09007f
 int id button_notify 0x7f090255
 int id button_second 0x7f090080
+int id button_work 0x7f09025b
 int id cache_measures 0x7f090081
 int id callMeasure 0x7f090082
 int id cancel_action 0x7f090083
@@ -3405,6 +3410,7 @@ int id textViewEmail 0x7f090215
 int id textViewName 0x7f090216
 int id textViewSecond 0x7f090217
 int id textView_settings 0x7f090259
+int id textView_worker 0x7f09025c
 int id textWatcher 0x7f090218
 int id textWelcome 0x7f090219
 int id text_input_end_icon 0x7f09021a
@@ -3579,6 +3585,7 @@ int layout activity_notifications 0x7f0c0088
 int layout activity_retrofit 0x7f0c001e
 int layout activity_second 0x7f0c0089
 int layout activity_settings 0x7f0c008b
+int layout activity_work_manager 0x7f0c008c
 int layout coroutines 0x7f0c001f
 int layout custom_dialog 0x7f0c0020
 int layout databinding 0x7f0c0021

@@ -44,6 +44,7 @@ id buttonTerms2
 id button_first
 id button_notify
 id button_second
+id button_work
 id cardView
 id editSubEmailAddress
 id editSubscriberName
@@ -88,6 +89,7 @@ id textViewEmail
 id textViewName
 id textViewSecond
 id textView_settings
+id textView_worker
 id textWelcome
 id text_result
 id textview_first
@@ -105,6 +107,7 @@ layout activity_notifications
 layout activity_retrofit
 layout activity_second
 layout activity_settings
+layout activity_work_manager
 layout coroutines
 layout databinding
 layout fragment_email

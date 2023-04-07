@@ -1325,7 +1325,11 @@ attr yearStyle
 attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool enable_system_alarm_service_default
+bool enable_system_foreground_service_default
+bool enable_system_job_service_default
 bool mtrl_btn_textappearance_all_caps
+bool workmanager_test_configuration
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -2995,6 +2999,7 @@ id buttonTerms2
 id button_first
 id button_notify
 id button_second
+id button_work
 id cache_measures
 id callMeasure
 id cancel_action
@@ -3406,6 +3411,7 @@ id textViewEmail
 id textViewName
 id textViewSecond
 id textView_settings
+id textView_worker
 id textWatcher
 id textWelcome
 id text_input_end_icon
@@ -3580,6 +3586,7 @@ layout activity_notifications
 layout activity_retrofit
 layout activity_second
 layout activity_settings
+layout activity_work_manager
 layout coroutines
 layout custom_dialog
 layout databinding

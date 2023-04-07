@@ -23,6 +23,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fb679f0b3f7c4aa13f8d3028876e44fc/transformed/databinding-adapters-7.2.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/7.2.2/cb53bd625b7a99cf218f46634d07d1886441288/databinding-common-7.2.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fc07e91e0bcf531d09007ba7314a0de5/transformed/databinding-ktx-7.2.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1cef0d7c955fae41000329f0e4241a5a/transformed/work-runtime-ktx-2.8.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0d1b16b958a975b2eb5225041595655c/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c44755a814c049995444c1ec44451fbf/transformed/navigation-ui-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/dedeaee3ae98a27d21f6f55b8dba942e/transformed/material-1.8.0-api.jar</arg>
@@ -41,6 +42,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9972e7718c30ee91c21695ef21182194/transformed/viewpager2-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/43e0cdc6912b30afd70d61314febadc7/transformed/fragment-1.5.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cdc24c7c02b8c41cf62bdc9c0fc68eaa/transformed/activity-1.6.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/bffc4b1ba23086ad3bad3c09e84c55f8/transformed/work-runtime-2.8.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c16b636fac2679b76a284a74d3326ed1/transformed/core-1.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/088bd171752713766ff820420c0b6908/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7b18920bc5dfb5160fd1b964c9056918/transformed/navigation-common-2.5.3-api.jar</arg>
@@ -311,6 +313,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.work:work-runtime-ktx:2.8.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.work:work-runtime:2.8.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
