@@ -3580,6 +3580,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_details
+layout activity_diactivity
 layout activity_employee
 layout activity_nav2
 layout activity_notifications

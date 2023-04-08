@@ -33,13 +33,17 @@
         android:testOnly="true"
         android:theme="@style/Theme.LearningApp" >
         <activity
-            android:name="com.learning.learningapp2022.ganeshhegde.workmanager.WorkManagerActivity"
+            android:name="com.learning.learningapp2022.ganeshhegde.di.phone.DIActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.learning.learningapp2022.ganeshhegde.workmanager.WorkManagerActivity"
+            android:exported="true" >
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.notifications.DetailsActivity"
@@ -65,8 +69,7 @@
             android:name="com.learning.learningapp2022.ganeshhegde.notifications.NotificationActivity"
             android:exported="true"
             android:label="@string/title_activity_employee"
-            android:theme="@style/Theme.LearningApp.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.LearningApp.NoActionBar" />
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.roomdb.employee.EmployeeActivity"
             android:exported="true"

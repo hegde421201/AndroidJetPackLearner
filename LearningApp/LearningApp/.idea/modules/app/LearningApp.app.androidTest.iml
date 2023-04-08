@@ -17,7 +17,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c943c8fe7787e5024aacf05cdf1dec8d/transformed/junit-1.1.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/32b64ac24e2f67a0256a15821776af47/transformed/espresso-core-3.5.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/afa4788e0e211176105beaa75ecc59d1/transformed/navigation-testing-2.5.3-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/bf051f2c85955c383efa89887edac385/transformed/room-testing-2.5.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/75409a8f525cf0d00623fa6e73cbc9de/transformed/room-testing-2.5.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/af109d06839c18e360f058aa9b150a43/transformed/databinding-runtime-7.2.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cae286c621463725ebbcc2f0eea483d3/transformed/viewbinding-7.2.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fb679f0b3f7c4aa13f8d3028876e44fc/transformed/databinding-adapters-7.2.2-api.jar</arg>
@@ -34,6 +34,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1ec470b00e9e2ce448dd961ed8b1d843/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4de4d3afc18374e119f2854ce3d748b8/transformed/navigation-dynamic-features-runtime-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/53eeabfc9c0b2d6e0535fa1a7e53f7aa/transformed/navigation-runtime-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/85eed7dc2d9951ed87f74de9a2416aeb/transformed/dagger-android-support-2.45-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4c7631e7e1508b27ad756ba36811e683/transformed/appcompat-1.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3189962a157d15ec169dd7acb71d4485/transformed/activity-compose-1.5.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2ea3654b3bcbc0a81fd6bac869aa5160/transformed/fragment-ktx-1.5.4-api.jar</arg>
@@ -47,8 +48,8 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/088bd171752713766ff820420c0b6908/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7b18920bc5dfb5160fd1b964c9056918/transformed/navigation-common-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.1/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.1.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/fcfadc77bb5cc02e417c9b98267482e2/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5c85994894934817c874e281cd16f8a9/transformed/lifecycle-livedata-core-2.6.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/fcfadc77bb5cc02e417c9b98267482e2/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.1/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/81d4312d968837d16aef261e8cbcc2d5/transformed/lifecycle-livedata-core-ktx-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d4475c8dd2a7c15dd5c9025d59626327/transformed/lifecycle-viewmodel-compose-2.6.1-api.jar</arg>
@@ -98,6 +99,7 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.0.0/ab5a73fa2ccb4a36b0b5c69fe10b16d0255bcf8/okio-jvm-3.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.10/7c002ac41f547a82e81dfebd2a20577a738dbf3f/kotlin-stdlib-jdk8-1.8.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/daf9046dba0cf0c184c9d7c1e12fa48f/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a02a55e44f586aba92deda04219fff64/transformed/dagger-android-2.45-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/eb5b381255003153833a5e77c825e1b0/transformed/runner-1.5.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar</arg>
@@ -138,9 +140,11 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e5eb6b4f6413666f89282f8bd921d501/transformed/startup-runtime-1.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ea1941157d65ee04a770aac2e86ba37b/transformed/espresso-idling-resource-3.5.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.45/f7e0def41c2dbb7f79613003ae4ee49f65dc2759/dagger-2.45.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-migration/2.5.0/e2f2812f119fcb1e1e427406c620485d7a7d87de/room-migration-2.5.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-migration/2.5.1/e2f2812f119fcb1e1e427406c620485d7a7d87de/room-migration-2.5.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c853ccfb7c31e38cdb8f0363e38ab15e/transformed/dagger-lint-aar-2.45-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6eee62cc4c2b57592e731f0071f0fc65/transformed/core-1.10.3-api.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/build-tools/32.1.0-rc1/core-lambda-stubs.jar</arg>
@@ -234,7 +238,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-common:2.5.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-migration:2.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-migration:2.5.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-common:7.2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.6.1" level="project" />
@@ -244,6 +248,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:converter-gson:2.9.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:logging-interceptor:4.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger:2.45" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.6.1@aar" level="project" />
@@ -271,7 +276,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-testing:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-testing:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-runtime:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite:2.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite-framework:2.3.1@aar" level="project" />
@@ -341,6 +346,9 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.6.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android:2.45@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-lint-aar:2.45@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android-support:2.45@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="LearningApp.app.main" />
 </module>

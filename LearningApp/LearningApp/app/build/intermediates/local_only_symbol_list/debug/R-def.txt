@@ -101,6 +101,7 @@ id txtCounts
 id txtMessage
 id welcomeFragment
 layout activity_details
+layout activity_diactivity
 layout activity_employee
 layout activity_nav2
 layout activity_notifications

@@ -24,6 +24,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0d1b16b958a975b2eb5225041595655c/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c44755a814c049995444c1ec44451fbf/transformed/navigation-ui-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/dedeaee3ae98a27d21f6f55b8dba942e/transformed/material-1.8.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/85eed7dc2d9951ed87f74de9a2416aeb/transformed/dagger-android-support-2.45-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a5ea9e69d5673f8ac09e92a8780f1710/transformed/legacy-support-v4-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4c7631e7e1508b27ad756ba36811e683/transformed/appcompat-1.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9972e7718c30ee91c21695ef21182194/transformed/viewpager2-1.0.0-api.jar</arg>
@@ -40,10 +41,10 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d95b978510d2a5106b0555d21701cb04/transformed/activity-ktx-1.6.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cdc24c7c02b8c41cf62bdc9c0fc68eaa/transformed/activity-1.6.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.1/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5c85994894934817c874e281cd16f8a9/transformed/lifecycle-livedata-core-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/088bd171752713766ff820420c0b6908/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7b18920bc5dfb5160fd1b964c9056918/transformed/navigation-common-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fcfadc77bb5cc02e417c9b98267482e2/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/5c85994894934817c874e281cd16f8a9/transformed/lifecycle-livedata-core-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.1/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/81d4312d968837d16aef261e8cbcc2d5/transformed/lifecycle-livedata-core-ktx-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d4475c8dd2a7c15dd5c9025d59626327/transformed/lifecycle-viewmodel-compose-2.6.1-api.jar</arg>
@@ -93,6 +94,7 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.0.0/ab5a73fa2ccb4a36b0b5c69fe10b16d0255bcf8/okio-jvm-3.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.10/7c002ac41f547a82e81dfebd2a20577a738dbf3f/kotlin-stdlib-jdk8-1.8.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/daf9046dba0cf0c184c9d7c1e12fa48f/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a02a55e44f586aba92deda04219fff64/transformed/dagger-android-2.45-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f055ee38b435d0c5f3d6a447d279314c/transformed/cursoradapter-1.0.0-api.jar</arg>
@@ -124,6 +126,9 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6eee62cc4c2b57592e731f0071f0fc65/transformed/core-1.10.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.45/f7e0def41c2dbb7f79613003ae4ee49f65dc2759/dagger-2.45.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c853ccfb7c31e38cdb8f0363e38ab15e/transformed/dagger-lint-aar-2.45-api.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/build-tools/32.1.0-rc1/core-lambda-stubs.jar</arg>
               </args>
@@ -212,6 +217,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:converter-gson:2.9.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:logging-interceptor:4.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger:2.45" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.2@aar" level="project" />
@@ -299,6 +306,9 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-runtime:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite:2.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite-framework:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android:2.45@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-lint-aar:2.45@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android-support:2.45@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="LearningApp.app.main" />
 </module>
