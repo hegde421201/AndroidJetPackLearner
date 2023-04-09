@@ -1,4 +1,4 @@
-package com.hegde.learning.movies.data
+package com.hegde.learning.movies.data.model.movie
 
 
 import com.google.gson.annotations.SerializedName
