@@ -6,12 +6,18 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
+        android:name=".LearnerAppApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
+        <activity
+            android:name=".di.coffee.CoffeeActivity"
+            android:exported="true">
+
+        </activity>
         <activity
             android:name=".di.phone.DIActivity"
             android:exported="true">
@@ -22,9 +28,7 @@
         </activity>
         <activity
             android:name=".workmanager.WorkManagerActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".notifications.DetailsActivity"
             android:exported="false"
@@ -49,7 +53,7 @@
             android:name=".notifications.NotificationActivity"
             android:exported="true"
             android:label="@string/title_activity_employee"
-            android:theme="@style/Theme.LearningApp.NoActionBar"></activity>
+            android:theme="@style/Theme.LearningApp.NoActionBar" />
         <activity
             android:name=".roomdb.employee.EmployeeActivity"
             android:exported="true"

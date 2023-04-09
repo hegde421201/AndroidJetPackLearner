@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningApp.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LearningApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LearningApp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LearningApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LearningApp.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LearningApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LearningApp.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LearningApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LearningApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.iml" filepath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -40,6 +40,10 @@
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_retrofit.xml"
     },
     {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_coffee.xml",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_coffee.xml"
+    },
+    {
         "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_nav2.xml",
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_nav2.xml"
     },

@@ -22,6 +22,7 @@
     <uses-permission android:name="com.learning.learningapp2022.ganeshhegde.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
+        android:name="com.learning.learningapp2022.ganeshhegde.LearnerAppApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -33,6 +34,10 @@
         android:testOnly="true"
         android:theme="@style/Theme.LearningApp" >
         <activity
+            android:name="com.learning.learningapp2022.ganeshhegde.di.coffee.CoffeeActivity"
+            android:exported="true" >
+        </activity>
+        <activity
             android:name="com.learning.learningapp2022.ganeshhegde.di.phone.DIActivity"
             android:exported="true" >
             <intent-filter>
@@ -43,8 +48,7 @@
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.workmanager.WorkManagerActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.notifications.DetailsActivity"
             android:exported="false"

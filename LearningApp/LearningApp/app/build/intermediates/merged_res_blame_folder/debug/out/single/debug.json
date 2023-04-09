@@ -72,6 +72,10 @@
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/livedataexample.xml"
     },
     {
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-76:/layout_activity_coffee.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_coffee.xml"
+    },
+    {
         "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-76:/navigation_nav_graph3.xml.flat",
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/navigation/nav_graph3.xml"
     },
