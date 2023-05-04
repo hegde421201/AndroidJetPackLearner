@@ -14,10 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12bf321b-30da-48f3-a3d0-536eb1ee56e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/GetMoviesUseCase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/MovieRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/TVShowRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/UpdateMoviesUseCase.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +65,8 @@
         <option value="Kotlin Data Class" />
         <option value="layoutResourceFile" />
         <option value="Class" />
-        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
