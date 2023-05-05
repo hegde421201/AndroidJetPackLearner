@@ -14,10 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12bf321b-30da-48f3-a3d0-536eb1ee56e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/data/repository/MovieRepositoryImpl.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/GetArtistUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/GetArtistUseCase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/UpdateArtistUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/UpdateArtistUseCase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/UpdateTVShowUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movies/src/main/java/com/hegde/learning/movies/domain/UpdateTVShowUseCase.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="com.android.tools.idea.sqlite.queryhistory" value="SELECT * FROM employee_info&#10;SELECT * FROM employee_info;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Default Config" />
@@ -121,11 +119,11 @@
       <recent name="com.learning.learningapp2022.ganeshhegde.retrofit.kotlin" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.hegde.learning.movies.domain.usecase" />
+      <recent name="com.hegde.learning.movies.domain.repository" />
       <recent name="com.hegde.learning.movies.data.db" />
       <recent name="com.hegde.learning.movies.data.model.tvshow" />
       <recent name="com.hegde.learning.movies.data.model.movie" />
-      <recent name="com.hegde.learning.movies.data.model.artist" />
-      <recent name="com.hegde.learning.movies.data.model" />
     </key>
     <key name="android.template.197508561">
       <recent name="com.learning.learningapp2022.ganeshhegde.di.coffee" />
