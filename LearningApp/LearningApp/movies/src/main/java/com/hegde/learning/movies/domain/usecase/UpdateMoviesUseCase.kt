@@ -1,6 +1,7 @@
-package com.hegde.learning.movies.domain
+package com.hegde.learning.movies.domain.usecase
 
 import com.hegde.learning.movies.data.model.movie.Movie
+import com.hegde.learning.movies.domain.repository.MovieRepository
 
 class UpdateMoviesUseCase(private val movieRepository: MovieRepository) {
 
