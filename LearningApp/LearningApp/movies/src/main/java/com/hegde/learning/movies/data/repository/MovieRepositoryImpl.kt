@@ -6,9 +6,11 @@ import com.hegde.learning.movies.domain.repository.MovieRepository
 class MovieRepositoryImpl : MovieRepository {
     override suspend fun getMovies(): List<Movie>? {
 
+        return null
     }
 
     override suspend fun updateMovies(): List<Movie>? {
 
+        return null
     }
 }
