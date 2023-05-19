@@ -11,7 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/movies" />
+            <option value="$PROJECT_DIR$/testdemos" />
           </set>
         </option>
       </GradleProjectSettings>
