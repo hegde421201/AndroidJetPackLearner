@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/paint_fragment">
+
+    <fragment
+        android:id="@+id/paint_fragment"
+        android:name="com.learning.demo.testdemos.view.PaintFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_paint">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/paint_details_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/paint_details_fragment"
+        android:name="com.learning.demo.testdemos.view.PaintDetailsFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_paint_details">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_ThirdFragment"
+            app:destination="@id/image_api_fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/image_api_fragment"
+        android:name="com.learning.demo.testdemos.view.ImageApiFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_paint_details">
+
+
+    </fragment>
+</navigation>

@@ -14,25 +14,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12bf321b-30da-48f3-a3d0-536eb1ee56e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/ImageApiFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/PaintActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/PaintDetailsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/PaintFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/activity_paint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/fragment_image_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/fragment_paint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/fragment_paint_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/image_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/paint_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemos/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.androidTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/movies/LearningApp.movies.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-05-2023_17_18__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testdemos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/TaxCalculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/TaxCalculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemos/src/test/java/com/learning/demo/testdemos/TaxCalculatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/test/java/com/learning/demo/testdemos/TaxCalculatorTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\hegde10122\.android\avd\Pixel_XL_API_32.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -51,17 +86,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="LearningApp" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LearningApp" type="f1a62948:ProjectNode" />
-                <item name="movies" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LearningApp" type="f1a62948:ProjectNode" />
-                <item name="movies" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -73,12 +97,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Data Class" />
-        <option value="layoutResourceFile" />
         <option value="Class" />
         <option value="Kotlin File" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="JUnit5 Test Class" />
+        <option value="layoutResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -96,6 +121,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Cwzjj0m3Pi34uDIj6oTiF4bZxo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -105,7 +133,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;
   }
 }</component>
   <component name="PsdUISettings">
@@ -114,11 +144,23 @@
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.174261417">
-      <recent name="com.learning.learningapp2022.ganeshhegde.di.phone" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="android.template.655019749">
+      <recent name="com.learning.demo.testdemos" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.learning.demo.testdemos" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.learning.learningapp2022.ganeshhegde.notifications" />
+    </key>
+    <key name="android.template.423341212">
+      <recent name="com.learning.learningapp2022.ganeshhegde.workmanager" />
+    </key>
+    <key name="android.template.174261417">
+      <recent name="com.learning.learningapp2022.ganeshhegde.di.phone" />
     </key>
     <key name="CreateKotlinClassDialog.RecentsKey">
       <recent name="com.learning.learningapp2022.ganeshhegde.di.phone" />
@@ -127,26 +169,17 @@
       <recent name="com.learning.learningapp2022.ganeshhegde.retrofit.kotlin" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.learning.demo.testdemos.view" />
       <recent name="com.hegde.learning.movies.domain.usecase" />
       <recent name="com.hegde.learning.movies.domain.repository" />
       <recent name="com.hegde.learning.movies.data.db" />
       <recent name="com.hegde.learning.movies.data.model.tvshow" />
-      <recent name="com.hegde.learning.movies.data.model.movie" />
     </key>
     <key name="android.template.197508561">
       <recent name="com.learning.learningapp2022.ganeshhegde.di.coffee" />
     </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.learning.demo.testdemos" />
-    </key>
     <key name="android.template.-1475255339">
       <recent name="com.learning.learningapp2022.ganeshhegde.roomdb.employee" />
-    </key>
-    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
-      <recent name="com.learning.learningapp2022.ganeshhegde.notifications" />
-    </key>
-    <key name="android.template.423341212">
-      <recent name="com.learning.learningapp2022.ganeshhegde.workmanager" />
     </key>
     <key name="android.template.1603634299">
       <recent name="com.learning.learningapp2022.ganeshhegde.notifications" />
@@ -155,7 +188,7 @@
       <recent name="com.hegde.learning.movies" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TaxCalculatorTest">
+  <component name="RunManager" selected="Android App.testdemos">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="LearningApp.app.main" />
       <option name="DEPLOY" value="true" />
@@ -330,7 +363,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxCalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TaxCalculatorTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -399,13 +432,13 @@
       <item itemvalue="Android App.app" />
       <item itemvalue="Android App.movies" />
       <item itemvalue="Android App.testdemos" />
-      <item itemvalue="Gradle.TaxCalculatorTest" />
+      <item itemvalue="Gradle.TaxCalculatorTest (1)" />
       <item itemvalue="Gradle.TaxCalculatorTest.calculateIncome" />
       <item itemvalue="Gradle.TaxCalculatorTest.calculateTax" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.TaxCalculatorTest" />
+        <item itemvalue="Gradle.TaxCalculatorTest (1)" />
         <item itemvalue="Gradle.TaxCalculatorTest.calculateTax" />
         <item itemvalue="Gradle.TaxCalculatorTest.calculateIncome" />
       </list>
