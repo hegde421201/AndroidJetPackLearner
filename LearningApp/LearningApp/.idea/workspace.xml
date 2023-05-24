@@ -13,6 +13,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="12bf321b-30da-48f3-a3d0-536eb1ee56e4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/testdemos/src/main/java/com/learning/demo/testdemos/view/ImageApiFragment.kt" afterDir="false" />
@@ -62,6 +63,9 @@
       <change beforePath="$PROJECT_DIR$/testdemos/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/main/res/values/themes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testdemos/src/test/java/com/learning/demo/testdemos/TaxCalculatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/testdemos/src/test/java/com/learning/demo/testdemos/TaxCalculatorTest.kt" afterDir="false" />
     </list>
+=======
+    <list default="true" id="12bf321b-30da-48f3-a3d0-536eb1ee56e4" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
