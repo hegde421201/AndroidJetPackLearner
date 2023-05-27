@@ -5,11 +5,15 @@ import android.view.View
 import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
+import com.bumptech.glide.RequestManager
 import com.learning.demo.testdemos.R
 import com.learning.demo.testdemos.databinding.FragmentPaintBinding
 import com.learning.demo.testdemos.databinding.FragmentPaintDetailsBinding
+import javax.inject.Inject
 
-class PaintDetailsFragment : Fragment(R.layout.fragment_paint_details) {
+class PaintDetailsFragment  @Inject constructor(
+    val glide : RequestManager
+): Fragment(R.layout.fragment_paint_details) {
 
     private var fragmentBindings : FragmentPaintDetailsBinding? = null
 
