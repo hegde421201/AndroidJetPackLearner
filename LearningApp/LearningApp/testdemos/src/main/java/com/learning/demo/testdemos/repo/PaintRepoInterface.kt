@@ -16,4 +16,5 @@ interface PaintRepoInterface {
 
     suspend fun searchImage(imageString : String) : Resource<ImageResponse>
 
+
 }

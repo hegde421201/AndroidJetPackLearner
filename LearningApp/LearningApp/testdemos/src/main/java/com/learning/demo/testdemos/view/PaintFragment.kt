@@ -16,8 +16,6 @@ import com.learning.demo.testdemos.databinding.FragmentPaintBinding
 import com.learning.demo.testdemos.viewmodel.PaintViewModel
 import javax.inject.Inject
 
-//https://github.com/atilsamancioglu/IA27-ArtBookHiltTesting/blob/master/app/src/main/java/com/atilsamancioglu/artbookhilttesting/view/ArtFragment.kt
-
 
 class PaintFragment @Inject constructor(
     val paintRecyclerAdapter: PaintRecyclerAdapter
