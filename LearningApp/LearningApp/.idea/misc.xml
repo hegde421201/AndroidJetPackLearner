@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="testdemos/src/main/res/layout/activity_paint.xml" value="0.20643363728470113" />
+        <entry key="testdemos/src/main/res/layout/fragment_image_api.xml" value="0.4003623188405797" />
+        <entry key="testdemos/src/main/res/layout/fragment_paint.xml" value="0.4003623188405797" />
+        <entry key="testdemos/src/main/res/layout/fragment_paint_details.xml" value="0.20643363728470113" />
         <entry key="testdemos/src/main/res/layout/image_row.xml" value="0.4003623188405797" />
         <entry key="testdemos/src/main/res/layout/paint_row.xml" value="0.4003623188405797" />
       </map>
