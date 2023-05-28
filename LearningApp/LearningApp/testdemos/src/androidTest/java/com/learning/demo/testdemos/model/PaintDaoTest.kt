@@ -5,32 +5,46 @@ import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.filters.SmallTest
 import com.google.common.truth.Truth.assertThat
+import dagger.hilt.android.testing.HiltAndroidRule
+import dagger.hilt.android.testing.HiltAndroidTest
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.runTest
 import org.junit.After
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
+import javax.inject.Inject
+import javax.inject.Named
 
 
 //@ExtendWith(InstantExecutorExtension::class)
 @SmallTest
 @ExperimentalCoroutinesApi
+@HiltAndroidTest
 class PaintDaoTest {
 
     @get:Rule
     var instantTaskExecutorRule = InstantTaskExecutorRule()
 
+    @get:Rule
+    var hiltRule = HiltAndroidRule(this)
+
+    @Inject
+    @Named("testDatabase")
+    lateinit var database: PaintDatabase
+
 
     private lateinit var dao : PaintDao
-private lateinit var database: PaintDatabase
+//private lateinit var database: PaintDatabase
 
 @Before
 fun setup(){
 
-database = Room.
+/*database = Room.
 inMemoryDatabaseBuilder(ApplicationProvider.getApplicationContext(),PaintDatabase::class.java).
-allowMainThreadQueries().build()
+allowMainThreadQueries().build()*/
+
+    hiltRule.inject()
 
     dao = database.paintDao()
 
