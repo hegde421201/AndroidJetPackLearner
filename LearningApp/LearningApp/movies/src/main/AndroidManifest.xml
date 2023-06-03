@@ -10,10 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningApp">
         <activity
-            android:name=".MainMovieActivity"
-            android:exported="true" >
+            android:name="com.hegde.learning.movies.presentation.tvshow.TvShowActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.hegde.learning.movies.presentation.artist.ArtistActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.hegde.learning.movies.presentation.movie.MovieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".presentation.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
