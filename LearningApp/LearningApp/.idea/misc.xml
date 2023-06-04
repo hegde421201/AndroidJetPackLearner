@@ -9,6 +9,7 @@
         <entry key="movies/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="movies/src/main/res/layout/activity_movie.xml" value="0.20643363728470113" />
         <entry key="movies/src/main/res/layout/activity_tv_show.xml" value="0.20643363728470113" />
+        <entry key="movies/src/main/res/layout/list_item.xml" value="0.13269927536231885" />
         <entry key="testdemos/src/main/res/layout/activity_paint.xml" value="0.20643363728470113" />
         <entry key="testdemos/src/main/res/layout/fragment_image_api.xml" value="0.1" />
         <entry key="testdemos/src/main/res/layout/fragment_paint.xml" value="0.4003623188405797" />
