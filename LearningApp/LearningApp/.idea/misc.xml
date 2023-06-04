@@ -5,11 +5,12 @@
       <map>
         <entry key="../../../../../../../../layout/compose-model-1685529571868.xml" value="0.1" />
         <entry key="movies/src/main/res/drawable/ripple.xml" value="0.422" />
-        <entry key="movies/src/main/res/layout/activity_artist.xml" value="0.19959473150962512" />
+        <entry key="movies/src/main/res/layout/activity_artist.xml" value="0.16279069767441862" />
         <entry key="movies/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="movies/src/main/res/layout/activity_movie.xml" value="0.20643363728470113" />
         <entry key="movies/src/main/res/layout/activity_tv_show.xml" value="0.20643363728470113" />
         <entry key="movies/src/main/res/layout/list_item.xml" value="0.13269927536231885" />
+        <entry key="movies/src/main/res/menu/update.xml" value="0.4244791666666667" />
         <entry key="testdemos/src/main/res/layout/activity_paint.xml" value="0.20643363728470113" />
         <entry key="testdemos/src/main/res/layout/fragment_image_api.xml" value="0.1" />
         <entry key="testdemos/src/main/res/layout/fragment_paint.xml" value="0.4003623188405797" />
