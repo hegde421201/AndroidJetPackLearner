@@ -40,7 +40,7 @@ class MyViewHolder(val binding: ListItemBinding):RecyclerView.ViewHolder(binding
 
     fun bind(artist: Artist){
         binding.titleTextView.text = artist.name
-        binding.descTextView.text = artist.name
+        binding.descTextView.text = artist.popularity.toString()
         val posterPath = "https://image.tmdb.org/t/p/w500"+artist.profilePath
         Glide.with(binding.imgView.context).load(posterPath).into(binding.imgView)
     }
