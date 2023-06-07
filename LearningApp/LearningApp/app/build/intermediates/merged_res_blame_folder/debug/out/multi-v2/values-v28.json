@@ -4,7 +4,7 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\4bac6f5a9a5814b0f67681405b3849ad\\transformed\\material-1.8.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\e4c0a51828edc9c2e5d1a7eb08451424\\transformed\\material-1.8.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\072b693c3432497cfe1647155b1ade82\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\ef510590c0c09f9e4016bc8153989df0\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
