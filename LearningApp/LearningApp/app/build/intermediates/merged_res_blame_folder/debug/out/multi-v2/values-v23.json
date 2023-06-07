@@ -4,7 +4,7 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/3865c119c7ed0d26727f561f18266dca/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\bcee9c129fddb4b83a96102d889f32b4\\transformed\\work-runtime-2.8.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,26 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/32462a6d1c094b648c3b92c57b53e1c8/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "52",
-                        "startColumns": "4",
-                        "startOffsets": "3361",
-                        "endLines": "54",
-                        "endColumns": "12",
-                        "endOffsets": "3506"
-                    }
-                },
-                {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/f42741f83a843f7fda4558f102e1fa6c/transformed/material-1.8.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\4bac6f5a9a5814b0f67681405b3849ad\\transformed\\material-1.8.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -52,7 +33,26 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/914b13d4a98961c3cb448bd1e9c93a97/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\64064532130667b40a22efe4c3910752\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "3361",
+                        "endLines": "54",
+                        "endColumns": "12",
+                        "endOffsets": "3506"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\072b693c3432497cfe1647155b1ade82\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

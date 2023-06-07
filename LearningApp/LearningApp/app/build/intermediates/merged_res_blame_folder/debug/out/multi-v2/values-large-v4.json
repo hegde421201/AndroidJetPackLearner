@@ -4,7 +4,7 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/914b13d4a98961c3cb448bd1e9c93a97/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\072b693c3432497cfe1647155b1ade82\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/f42741f83a843f7fda4558f102e1fa6c/transformed/material-1.8.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\4bac6f5a9a5814b0f67681405b3849ad\\transformed\\material-1.8.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/914b13d4a98961c3cb448bd1e9c93a97/transformed/appcompat-1.6.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\072b693c3432497cfe1647155b1ade82\\transformed\\appcompat-1.6.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/1ff575871bc43710ca297ef124c4e9eb/transformed/ui-1.0.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\0af6837ba0304a06d12c3ea18c80557a\\transformed\\ui-1.0.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/2acbca048fafe201bb52564942bdf72d/transformed/navigation-dynamic-features-fragment-2.5.3/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\ba9b68eb3fad4ad6ce5a957cbd3c2513\\transformed\\navigation-dynamic-features-fragment-2.5.3\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/063c0685dc34e268e1a70ee2ae97523b/transformed/core-1.9.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\4a11630183885af0b90d823a6d111013\\transformed\\core-1.9.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

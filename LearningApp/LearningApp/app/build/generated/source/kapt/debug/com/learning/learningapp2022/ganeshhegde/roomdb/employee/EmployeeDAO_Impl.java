@@ -52,7 +52,7 @@ public final class EmployeeDAO_Impl implements EmployeeDAO {
 
   @Override
   public Object insertEmployee(final Employee employee,
-      final Continuation<? super Unit> continuation) {
+      final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       public Unit call() throws Exception {
@@ -65,7 +65,7 @@ public final class EmployeeDAO_Impl implements EmployeeDAO {
           __db.endTransaction();
         }
       }
-    }, continuation);
+    }, $completion);
   }
 
   public static List<Class<?>> getRequiredConverters() {

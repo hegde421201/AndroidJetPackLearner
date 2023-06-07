@@ -105,7 +105,7 @@ public final class SubscribeDAO_Impl implements SubscribeDAO {
 
   @Override
   public Object insertSubscriber(final Subscriber subscriber,
-      final Continuation<? super Unit> continuation) {
+      final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       public Unit call() throws Exception {
@@ -118,12 +118,12 @@ public final class SubscribeDAO_Impl implements SubscribeDAO {
           __db.endTransaction();
         }
       }
-    }, continuation);
+    }, $completion);
   }
 
   @Override
   public Object deleteSubscriber(final Subscriber subscriber,
-      final Continuation<? super Unit> continuation) {
+      final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       public Unit call() throws Exception {
@@ -136,12 +136,12 @@ public final class SubscribeDAO_Impl implements SubscribeDAO {
           __db.endTransaction();
         }
       }
-    }, continuation);
+    }, $completion);
   }
 
   @Override
   public Object updateSubscriber(final Subscriber subscriber,
-      final Continuation<? super Unit> continuation) {
+      final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       public Unit call() throws Exception {
@@ -154,11 +154,11 @@ public final class SubscribeDAO_Impl implements SubscribeDAO {
           __db.endTransaction();
         }
       }
-    }, continuation);
+    }, $completion);
   }
 
   @Override
-  public Object deleteAll(final Continuation<? super Unit> continuation) {
+  public Object deleteAll(final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       public Unit call() throws Exception {
@@ -173,7 +173,7 @@ public final class SubscribeDAO_Impl implements SubscribeDAO {
           __preparedStmtOfDeleteAll.release(_stmt);
         }
       }
-    }, continuation);
+    }, $completion);
   }
 
   @Override
