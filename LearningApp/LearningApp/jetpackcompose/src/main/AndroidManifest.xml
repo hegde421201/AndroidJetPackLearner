@@ -16,6 +16,18 @@
             android:theme="@style/Theme.LearningApp">
         </activity>
 
+
+        <activity
+            android:name=".ui.theme.activities.MiscActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.LearningApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name=".ui.theme.activities.ModifierActivity"
             android:exported="true"
@@ -45,10 +57,6 @@
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LearningApp">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 
