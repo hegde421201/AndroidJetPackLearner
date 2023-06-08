@@ -39,7 +39,7 @@
     <EditText
         android:id="@+id/editTextAnything"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:ems="10"
         android:inputType="text"
         android:hint="@string/type_here"

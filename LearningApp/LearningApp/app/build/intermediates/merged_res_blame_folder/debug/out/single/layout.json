@@ -1,114 +1,118 @@
 [
     {
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\list_items_demo.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\list_items_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\vmactivity.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\vmactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_work_manager.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_work_manager.xml"
+    },
+    {
         "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/databinding.xml",
         "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/databinding.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_terms.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_terms.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_first.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_first.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_home2.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_home2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/room_subscribers.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/room_subscribers.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_coffee.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_coffee.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_second.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_second.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\recycler_demo.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\recycler_demo.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/recycler_demo.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/recycler_demo.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_name.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_name.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/navexample.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/navexample.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_second2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_email.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_email.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_diactivity.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_diactivity.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_home.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_welcome.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_welcome.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_retrofit.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_retrofit.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_nav2.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_nav2.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_coffee.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_coffee.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_terms.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_terms.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_nav2.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_nav2.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_details.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_details.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_details.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_details.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\databinding.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\databinding.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_diactivity.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_diactivity.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\room_list_item.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\room_list_item.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_employee.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_employee.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_notifications.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_notifications.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_settings.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_settings.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\coroutines.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\coroutines.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/coroutines.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/coroutines.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_second.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\room_subscribers.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\room_subscribers.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/list_items_demo.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/list_items_demo.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_second.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_second.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_work_manager.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_work_manager.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\fragment_email.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_email.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/livedataexample.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/livedataexample.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\navexample.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\navexample.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/room_list_item.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/room_list_item.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_retrofit.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_retrofit.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/vmactivity.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/vmactivity.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\activity_employee.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_employee.xml"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_welcome.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_welcome.xml"
-    },
-    {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_second2.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_second2.xml"
-    },
-    {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/activity_notifications.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/activity_notifications.xml"
-    },
-    {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_home2.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_home2.xml"
-    },
-    {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/layout/fragment_name.xml",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/fragment_name.xml"
+        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:\\layout\\livedataexample.xml",
+        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\livedataexample.xml"
     }
 ]

@@ -24,6 +24,8 @@ class DataBindingActivity : AppCompatActivity(){
         //of the app in case of a view mismatch. Data binding eliminates the issue.
         binding = DataBindingUtil.setContentView(this, R.layout.databinding)
 
+        //using databinding we can also send objects from localdb or rest api directly to the layout
+
         //the above binder object
         binding.buttonClickMe.setOnClickListener {
             displayTextTyped()
@@ -36,7 +38,8 @@ class DataBindingActivity : AppCompatActivity(){
         binding.employeeButton.setOnClickListener {
             binding.employee = getEmployee()
 
-            //here we get the object itself and pass it to the xml layout using the name parameter defined inside the <data> tag.
+            //here we get the object itself
+        // and pass it to the xml layout using the name parameter defined inside the <data> tag.
 
                 //  The textview inside the layout displays the employee object details --- USING binding expressions
                 // android:text="@{employee.name.concat(@string/comma).concat(employee.email)}"
