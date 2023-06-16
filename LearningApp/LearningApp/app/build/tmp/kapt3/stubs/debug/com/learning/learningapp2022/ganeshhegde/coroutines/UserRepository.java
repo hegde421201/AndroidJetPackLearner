@@ -7,8 +7,8 @@ public final class UserRepository {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable
-    public final java.lang.Object getUsers(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    public final java.lang.Object getUsers(@org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super java.util.List<com.learning.learningapp2022.ganeshhegde.coroutines.User>> $completion) {
         return null;
     }

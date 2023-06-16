@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\ef510590c0c09f9e4016bc8153989df0\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/14b8b3af66f95fc6c9e843156c5f4d42/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

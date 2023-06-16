@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hegde10122\\.gradle\\caches\\transforms-3\\e4c0a51828edc9c2e5d1a7eb08451424\\transformed\\material-1.8.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "/Users/ganesh.r.hegde/.gradle/caches/transforms-3/969223732cf061934fe5ac9f31571008/transformed/material-1.9.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-74:/values-w600dp-v13/values-w600dp-v13.xml",
+            "outputFile": "com.learning.learningapp2022.ganeshhegde.app-mergeDebugResources-75:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\AndroidApps\\AndroidJetPackLearner\\LearningApp\\LearningApp\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "/Users/ganesh.r.hegde/Documents/LearningProjects/jetpack_learner/AndroidJetPackLearner/LearningApp/LearningApp/app/src/main/res/values-w600dp/dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

@@ -1,214 +1,210 @@
 [
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_livedataexample.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\livedataexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/anim_slide_out_right.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/anim/slide_out_right.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_home.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_vmactivity.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/vmactivity.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_coroutines.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\coroutines.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-76:/layout_databinding.xml.flat",
-        "source": "com.learning.learningapp2022.ganeshhegde.app-main-78:/layout/databinding.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_list_items_demo.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\list_items_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_second2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_second2.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\anim_slide_out_left.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\anim\\slide_out_left.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/navigation_nav_graph3.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/navigation/nav_graph3.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\anim_slide_out_right.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\anim\\slide_out_right.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/navigation_nav_graph.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_second.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_second.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/navigation_nav_graph4.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/navigation/nav_graph4.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_coffee.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_coffee.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_home.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_notifications.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_notifications.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_home2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_home2.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_work_manager.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_work_manager.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_retrofit.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_retrofit.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_vmactivity.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\vmactivity.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_nav2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_nav2.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/navigation_nav_graph2.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/navigation/nav_graph2.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\navigation_nav_graph4.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\navigation\\nav_graph4.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_navexample.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/navexample.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_second.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_second.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/anim_slide_out_left.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/anim/slide_out_left.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_databinding.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\databinding.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_first.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_first.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\anim_slide.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\anim\\slide.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_diactivity.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_diactivity.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_retrofit.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_retrofit.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/anim_slide_in_left.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/anim/slide_in_left.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_livedataexample.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/livedataexample.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_home2.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_home2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_details.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_details.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_recycler_demo.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\recycler_demo.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_work_manager.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_work_manager.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_employee.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_employee.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_terms.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_terms.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\navigation\\nav_graph.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_name.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_name.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_employee.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_employee.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_notifications.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_notifications.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_first.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_first.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_room_list_item.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/room_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\anim_slide_in_right.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\anim\\slide_in_right.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\navigation_nav_graph3.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\navigation\\nav_graph3.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_details.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_details.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_coffee.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_coffee.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_room_subscribers.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/room_subscribers.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_nav2.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_nav2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_databinding.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/databinding.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\anim_slide_in_left.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\anim\\slide_in_left.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_recycler_demo.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/recycler_demo.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_welcome.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\navigation_nav_graph2.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\navigation\\nav_graph2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_list_items_demo.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/list_items_demo.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_navexample.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\navexample.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_second.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_second.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_name.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_name.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/navigation_nav_graphhome.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/navigation/nav_graphhome.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_second2.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_second2.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_settings.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_terms.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_terms.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_coroutines.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/coroutines.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_room_subscribers.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\room_subscribers.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\navigation_nav_graphhome.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\navigation\\nav_graphhome.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_fragment_email.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/fragment_email.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_settings.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_settings.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/layout_activity_second.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/layout/activity_second.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_email.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_email.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/anim_slide.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/anim/slide.xml"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_fragment_welcome.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\fragment_welcome.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_activity_diactivity.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\activity_diactivity.xml"
-    },
-    {
-        "merged": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-merged_res-76:\\layout_room_list_item.xml.flat",
-        "source": "C:\\Users\\hegde10122\\.gradle\\daemon\\7.5\\com.learning.learningapp2022.ganeshhegde.app-main-78:\\layout\\room_list_item.xml"
+        "merged": "com.learning.learningapp2022.ganeshhegde.app-merged_res-77:/anim_slide_in_right.xml.flat",
+        "source": "com.learning.learningapp2022.ganeshhegde.app-main-79:/anim/slide_in_right.xml"
     }
 ]

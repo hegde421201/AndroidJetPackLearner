@@ -20,7 +20,8 @@ class DataBindingActivity : AppCompatActivity(){
         //Inside the xml we have the layout tag that tells us that the widgets in the layout will be accessed using data binding
         //Thus, data binding creates an object reference to all the views in the xml layout.After the binding object has been created the android app components
         //can access the views. This avoids the problem of the android components to search hierarchy again and again, improving the app performance.
-        //We also eliminate the findviewebyid making the code concise. findviewbyid issues were also not detected during compile time which resulted in crashing
+        //We also eliminate the findviewebyid making the code concise.
+        // findviewbyid issues were also not detected during compile time which resulted in crashing
         //of the app in case of a view mismatch. Data binding eliminates the issue.
         binding = DataBindingUtil.setContentView(this, R.layout.databinding)
 

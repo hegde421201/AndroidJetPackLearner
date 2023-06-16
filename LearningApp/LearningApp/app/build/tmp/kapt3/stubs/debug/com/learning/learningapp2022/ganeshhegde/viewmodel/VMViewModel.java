@@ -25,7 +25,7 @@ public final class VMViewModel extends androidx.lifecycle.ViewModel {
         return 0L;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     protected void onCleared() {
     }
 }

@@ -5,12 +5,12 @@ public final class AlbumsItem {
     @com.google.gson.annotations.SerializedName(value = "id")
     private final int id = 0;
     @com.google.gson.annotations.SerializedName(value = "title")
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     private final java.lang.String title = null;
     @com.google.gson.annotations.SerializedName(value = "userId")
     private final int userId = 0;
     
-    public AlbumsItem(int id, @org.jetbrains.annotations.NotNull
+    public AlbumsItem(int id, @org.jetbrains.annotations.NotNull()
     java.lang.String title, int userId) {
         super();
     }
@@ -19,7 +19,7 @@ public final class AlbumsItem {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String getTitle() {
         return null;
     }
@@ -32,7 +32,7 @@ public final class AlbumsItem {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final java.lang.String component2() {
         return null;
     }
@@ -41,25 +41,25 @@ public final class AlbumsItem {
         return 0;
     }
     
-    @org.jetbrains.annotations.NotNull
-    public final com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem copy(int id, @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
+    public final com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem copy(int id, @org.jetbrains.annotations.NotNull()
     java.lang.String title, int userId) {
         return null;
     }
     
-    @java.lang.Override
-    public boolean equals(@org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    public boolean equals(@org.jetbrains.annotations.Nullable()
     java.lang.Object other) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int hashCode() {
         return 0;
     }
     
-    @java.lang.Override
-    @org.jetbrains.annotations.NotNull
+    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull()
     public java.lang.String toString() {
         return null;
     }

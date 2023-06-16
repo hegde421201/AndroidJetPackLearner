@@ -7,8 +7,8 @@ public final class LifeCycleScopeActivity extends androidx.appcompat.app.AppComp
         super();
     }
     
-    @java.lang.Override
-    protected void onCreate(@org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    protected void onCreate(@org.jetbrains.annotations.Nullable()
     android.os.Bundle savedInstanceState) {
     }
 }

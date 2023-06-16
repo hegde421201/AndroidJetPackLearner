@@ -12,8 +12,11 @@ import com.learning.learningapp2022.ganeshhegde.databinding.CoroutinesBinding
 import kotlinx.coroutines.*
 //import kotlinx.coroutines.test.withTestContext
 
-//Coroutines are software components that creates sub routines for cooperative multitasking. They were first used in 1958 for assembly programming
+//Coroutines are software components that creates sub routines for cooperative multitasking.
+// They were first used in 1958 for assembly programming
 //In kotlin coroutines can be called as a sequence of well managed sub tasks.
+//We can execute many coroutines in a single thread.
+
 class CoroutinesActivity : AppCompatActivity() {
 
     private lateinit var cBinding: CoroutinesBinding
@@ -44,8 +47,8 @@ class CoroutinesActivity : AppCompatActivity() {
                // downLoadData2()
 
                 /*
-               CoroutineScope -- it is ana interface
-               Dispatchers.IO --- coroutine will run in a backgound thread from a shared pool of on-demand created threads
+               CoroutineScope -- it is an interface
+               Dispatchers.IO --- coroutine will run in a background thread from a shared pool of on-demand created threads
                 * */
                 /*CoroutineScope(Dispatchers.IO).launch {
                    //downLoadData()

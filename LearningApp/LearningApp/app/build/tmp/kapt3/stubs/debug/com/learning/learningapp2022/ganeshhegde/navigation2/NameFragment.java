@@ -13,11 +13,11 @@ public final class NameFragment extends androidx.fragment.app.Fragment {
         super();
     }
     
-    @java.lang.Override
-    @org.jetbrains.annotations.Nullable
-    public android.view.View onCreateView(@org.jetbrains.annotations.NotNull
-    android.view.LayoutInflater inflater, @org.jetbrains.annotations.Nullable
-    android.view.ViewGroup container, @org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    @org.jetbrains.annotations.Nullable()
+    public android.view.View onCreateView(@org.jetbrains.annotations.NotNull()
+    android.view.LayoutInflater inflater, @org.jetbrains.annotations.Nullable()
+    android.view.ViewGroup container, @org.jetbrains.annotations.Nullable()
     android.os.Bundle savedInstanceState) {
         return null;
     }

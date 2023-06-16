@@ -39,11 +39,13 @@
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.di.phone.DIActivity"
-            android:exported="true" >
+            android:exported="true"
+            android:theme="@style/Theme.LearningApp.NoActionBar" >
         </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.workmanager.WorkManagerActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:theme="@style/Theme.LearningApp.NoActionBar" />
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.notifications.DetailsActivity"
             android:exported="false"
@@ -88,7 +90,13 @@
             android:name="com.learning.learningapp2022.ganeshhegde.coroutines.CoroutinesActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" />
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.recyclerview.RecyclerActivity"
             android:exported="true"
@@ -107,7 +115,8 @@
             android:name="com.learning.learningapp2022.ganeshhegde.livedata.LiveDataActivity"
             android:exported="true"
             android:screenOrientation="fullSensor"
-            android:windowSoftInputMode="stateAlwaysHidden" />
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
         <activity
             android:name="com.learning.learningapp2022.ganeshhegde.viewmodel.VMActivity"
             android:exported="true"
@@ -118,11 +127,6 @@
             android:exported="true"
             android:screenOrientation="fullSensor"
             android:windowSoftInputMode="stateAlwaysHidden" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <provider
@@ -235,6 +239,10 @@
             </intent-filter>
         </receiver>
 
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
         <uses-library
             android:name="androidx.window.extensions"
             android:required="false" />
@@ -267,29 +275,10 @@
             </intent-filter>
         </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
         <activity
-            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-            android:enabled="false"
-            android:exported="false"
-            android:launchMode="singleInstance"
-            android:process=":playcore_missing_splits_activity"
-            android:stateNotNeeded="true" />
-        <activity
             android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
             android:exported="false"
             android:stateNotNeeded="true"
-            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
-        <service
-            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-            android:enabled="false"
-            android:exported="true" >
-            <meta-data
-                android:name="com.google.android.play.core.assetpacks.versionCode"
-                android:value="11003" />
-        </service>
-        <service
-            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
-            android:enabled="false"
-            android:exported="false" />
+            android:theme="@style/Theme.PlayCore.Transparent" />
     </application>
 
 </manifest>

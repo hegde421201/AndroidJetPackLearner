@@ -9,25 +9,25 @@ public final class LearnerAppApplication extends android.app.Application {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final com.learning.learningapp2022.ganeshhegde.di.phone.SmartPhoneComponent getSmartPhoneComponent() {
         return null;
     }
     
-    public final void setSmartPhoneComponent(@org.jetbrains.annotations.NotNull
+    public final void setSmartPhoneComponent(@org.jetbrains.annotations.NotNull()
     com.learning.learningapp2022.ganeshhegde.di.phone.SmartPhoneComponent p0) {
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final com.learning.learningapp2022.ganeshhegde.di.coffee.CoffeeMakerComponent getCoffeeMakerComponent() {
         return null;
     }
     
-    public final void setCoffeeMakerComponent(@org.jetbrains.annotations.NotNull
+    public final void setCoffeeMakerComponent(@org.jetbrains.annotations.NotNull()
     com.learning.learningapp2022.ganeshhegde.di.coffee.CoffeeMakerComponent p0) {
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public void onCreate() {
     }
     

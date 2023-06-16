@@ -16,23 +16,23 @@ public final class UserDataManager {
     public final void setCount2(int p0) {
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final kotlinx.coroutines.Deferred<java.lang.Integer> getDeferred() {
         return null;
     }
     
-    public final void setDeferred(@org.jetbrains.annotations.NotNull
+    public final void setDeferred(@org.jetbrains.annotations.NotNull()
     kotlinx.coroutines.Deferred<java.lang.Integer> p0) {
     }
     
-    @org.jetbrains.annotations.Nullable
-    public final java.lang.Object getUserTotalCount(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    public final java.lang.Object getUserTotalCount(@org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super java.lang.Integer> $completion) {
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable
-    public final java.lang.Object getUser2(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    public final java.lang.Object getUser2(@org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super java.lang.Integer> $completion) {
         return null;
     }

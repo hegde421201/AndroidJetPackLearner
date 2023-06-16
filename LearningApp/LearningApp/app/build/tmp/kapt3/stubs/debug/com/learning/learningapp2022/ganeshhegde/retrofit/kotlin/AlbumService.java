@@ -4,26 +4,26 @@ package com.learning.learningapp2022.ganeshhegde.retrofit.kotlin;
 public abstract interface AlbumService {
     
     @retrofit2.http.GET(value = "/albums")
-    @org.jetbrains.annotations.Nullable
-    public abstract java.lang.Object getAlbums(@org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    public abstract java.lang.Object getAlbums(@org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super retrofit2.Response<com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.Albums>> $completion);
     
     @retrofit2.http.GET(value = "/albums")
-    @org.jetbrains.annotations.Nullable
+    @org.jetbrains.annotations.Nullable()
     public abstract java.lang.Object getSortedAlbums(@retrofit2.http.Query(value = "userId")
-    int userId, @org.jetbrains.annotations.NotNull
+    int userId, @org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super retrofit2.Response<com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.Albums>> $completion);
     
     @retrofit2.http.GET(value = "/albums/{id}")
-    @org.jetbrains.annotations.Nullable
+    @org.jetbrains.annotations.Nullable()
     public abstract java.lang.Object getAlbum(@retrofit2.http.Path(value = "id")
-    int albumId, @org.jetbrains.annotations.NotNull
+    int albumId, @org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super retrofit2.Response<com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem>> $completion);
     
     @retrofit2.http.POST(value = "/albums")
-    @org.jetbrains.annotations.Nullable
-    public abstract java.lang.Object uploadAlbum(@retrofit2.http.Body
-    @org.jetbrains.annotations.NotNull
-    com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem album, @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.Nullable()
+    public abstract java.lang.Object uploadAlbum(@retrofit2.http.Body()
+    @org.jetbrains.annotations.NotNull()
+    com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem album, @org.jetbrains.annotations.NotNull()
     kotlin.coroutines.Continuation<? super retrofit2.Response<com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem>> $completion);
 }

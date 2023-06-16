@@ -14,7 +14,8 @@ dependencyResolutionManagement {
 
 }
 rootProject.name = "LearningApp"
-include ':app'
+//include ':app'
 //include ':movies'
 //include ':testdemos'
 //include ':jetpackcompose'
+include ':locations'

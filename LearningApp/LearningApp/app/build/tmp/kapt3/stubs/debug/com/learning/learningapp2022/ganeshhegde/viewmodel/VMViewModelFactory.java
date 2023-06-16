@@ -8,9 +8,9 @@ public final class VMViewModelFactory implements androidx.lifecycle.ViewModelPro
         super();
     }
     
-    @java.lang.Override
-    @org.jetbrains.annotations.NotNull
-    public <T extends androidx.lifecycle.ViewModel>T create(@org.jetbrains.annotations.NotNull
+    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull()
+    public <T extends androidx.lifecycle.ViewModel>T create(@org.jetbrains.annotations.NotNull()
     java.lang.Class<T> modelClass) {
         return null;
     }

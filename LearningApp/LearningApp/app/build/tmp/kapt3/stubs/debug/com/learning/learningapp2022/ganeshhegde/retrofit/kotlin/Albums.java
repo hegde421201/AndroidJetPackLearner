@@ -7,37 +7,37 @@ public final class Albums extends java.util.ArrayList<com.learning.learningapp20
         super(0);
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public boolean contains(com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem element) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public final boolean contains(java.lang.Object element) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int getSize() {
         return 0;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int indexOf(com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem element) {
         return 0;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public final int indexOf(java.lang.Object element) {
         return 0;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public int lastIndexOf(com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem element) {
         return 0;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public final int lastIndexOf(java.lang.Object element) {
         return 0;
     }
@@ -46,22 +46,22 @@ public final class Albums extends java.util.ArrayList<com.learning.learningapp20
         return null;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public boolean remove(com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem element) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public final boolean remove(java.lang.Object element) {
         return false;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public com.learning.learningapp2022.ganeshhegde.retrofit.kotlin.AlbumsItem removeAt(int p0) {
         return null;
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public final int size() {
         return 0;
     }
